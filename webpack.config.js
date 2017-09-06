@@ -73,7 +73,7 @@ module.exports = function () {
     }, {
       test: /^(?!.*\.spec\.js$).*\.js$/,
       include: __dirname + '/src/app/',
-      loaders: ['istanbul-instrumenter-loader', 'babel-loader']
+      loaders: ['babel-loader']
     }]
   };
 

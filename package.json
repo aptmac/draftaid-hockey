@@ -63,7 +63,7 @@
     "lint-html": "htmlhint -c .htmlhintrc 'src/**/*.html' || npm run lint-html-checkstyle",
     "lint-html-checkstyle": "htmlhint -c .htmlhintrc -f checkstyle 'src/**/*.html' > checkstyle/checkstyle-html.xml",
     "lint": "npm run lint-js && npm run lint-html",
-    "prebuild": "npm run clean && npm run license-check && npm run lint",
+    "prebuild": "npm run clean && npm run lint",
     "build": "webpack --bail --progress --profile",
     "stop-mockapi": "forever stop --silent mock-api/mockapi.server.js || true",
     "prestart-mockapi": "npm run stop-mockapi",
