@@ -1,19 +1,12 @@
-'use strict';
-
 var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var CompressionPlugin = require('compression-webpack-plugin');
 var path = require('path');
 
-var ENV = process.env.npm_lifecycle_event;
-var isTest = ENV === 'test' || ENV === 'test-watch';
-var isProd = process.env.NODE_ENV === 'production';
-var isTesting = process.env.NODE_ENV === 'testing';
-
 module.exports = function () {
   var config = {};
 
-  config.entry = isTest ? void 0 : {
+  config.entry = {
     app: './src/app/app.module.js'
   };
 
@@ -24,8 +17,6 @@ module.exports = function () {
       'd3': 'angular-patternfly/node_modules/patternfly/node_modules/d3',
       'c3': 'angular-patternfly/node_modules/patternfly/node_modules/c3',
       'bootstrap': 'angular-patternfly/node_modules/patternfly/node_modules/bootstrap/dist/js/bootstrap.js',
-      'bootstrap-switch': 'angular-patternfly/node_modules/patternfly/node_modules/bootstrap-switch',
-
       'assets': path.resolve(__dirname, 'src', 'assets'),
       'components': path.resolve(__dirname, 'src', 'app', 'components'),
       'images': 'assets/images',
@@ -35,19 +26,13 @@ module.exports = function () {
     }
   };
 
-  config.output = isTest ? {} : {
+  config.output = {
     path: __dirname + '/dist',
     filename: '[name].bundle.js',
     chunkFilename: '[name].bundle.js'
   };
 
-  if (isTest) {
-    config.devtool = 'inline-source-map';
-  } else if (isProd || isTesting) {
-    config.devtool = 'source-map';
-  } else {
-    config.devtool = 'eval-source-map';
-  }
+  config.devtool = 'eval-source-map';
 
   config.module = {
     rules: [{
@@ -98,23 +83,19 @@ module.exports = function () {
     })
   );
 
-  if ((isProd || isTesting) && !isTest) {
-    config.plugins.push(
-      new webpack.optimize.UglifyJsPlugin({
-        sourceMap: true
-      })
-    );
-  }
+  config.plugins.push(
+    new webpack.optimize.UglifyJsPlugin({
+      sourceMap: true
+    })
+  );
 
-  if (!isTest) {
-    config.plugins.push(
-      new HtmlWebpackPlugin({
-        template: './src/app/index.html',
-        favicon: './src/assets/images/favicon.png',
-        inject: 'body'
-      })
-    );
-  }
+  config.plugins.push(
+    new HtmlWebpackPlugin({
+      template: './src/app/index.html',
+      favicon: './src/assets/images/favicon.png',
+      inject: 'body'
+    })
+  );
 
   config.plugins.push(
     new CompressionPlugin({
