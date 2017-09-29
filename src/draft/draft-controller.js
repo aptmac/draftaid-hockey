@@ -21,33 +21,21 @@ angular.module('apf.draftModule')
     $scope.columns = [
       listUtils.rankColumn,
       listUtils.playerColumn,
-      listUtils.positionColumn,
+      // listUtils.positionColumn,
       listUtils.teamColumn,
       listUtils.bestColumn,
       listUtils.worstColumn,
       listUtils.averageColumn,
-      listUtils.stdDevColumn
+      // listUtils.stdDevColumn
     ];
 
     $scope.viewsConfig = {
       views: [pfViewUtils.getListView()],
     };
 
-    var filterConfig = {
-      fields: [
-        listUtils.nameFilter
-      ],
-      resultsCount: 0,
-      appliedFilters: [],
-      // onFilterChange: filterChange
-    };
-
     $scope.toolbarConfig = {
       viewsConfig: $scope.viewsConfig,
-      filterConfig: filterConfig
     };
-
-    $scope.centersLoaded = false;
 
     // Read in all that juicy ranking data, and store it in scope vars
     $resource('mock_data/players/all').get(function (data) {
