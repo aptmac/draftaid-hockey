@@ -1,21 +1,34 @@
 angular.module('apf.draftModule')
   .controller('draftController', ['$scope', '$resource', 'ListUtils', 'pfViewUtils',
   function ($scope, $resource, listUtils, pfViewUtils) {
+    /**
+     * TODO:
+     * - Add a spinner for when data is loading
+     * - Add Player Search
+     * - Implement Pagination
+     * - Get Sorting & Filtering Working
+     * - Add Buttons to ListView
+     * - - So when drafting, click a button on the row instead of the row itself
+     */
+
     // Setup arrays in the scope so html can access them
     $scope.centers = [];
-    $scope.leftwings = [];
-    $scope.rightwings = [];
+    $scope.wings = [];
     $scope.defence = [];
     $scope.goalies = [];
+    $scope.pickNumber = 0;
+    $scope.centersLeft = $scope.centers.length;
+    $scope.defenceLeft = $scope.defence.length;
+    $scope.goaliesLeft = $scope.goalies.length;
 
     $scope.listConfig = {
       selectItems: false,
       multiSelect: false,
-      selectionMatchProp: 'rank',
-      selectedItems: [],
-      rowHeight: 64,
-      checkDisabled: false,
-      // onClick: handleClick
+      // showSelectBox: false,
+      // selectionMatchProp: 'rank',
+      // selectedItems: [],
+      // rowHeight: 10,
+      // checkDisabled: true,
     };
 
     $scope.columns = [
@@ -25,8 +38,7 @@ angular.module('apf.draftModule')
       listUtils.teamColumn,
       listUtils.bestColumn,
       listUtils.worstColumn,
-      listUtils.averageColumn,
-      // listUtils.stdDevColumn
+      // listUtils.averageColumn,
     ];
 
     $scope.viewsConfig = {
@@ -43,13 +55,13 @@ angular.module('apf.draftModule')
       for (let i = 0; i < numPlayers; i++) {
         switch (data.data[i].Position) {
         case 'LW':
-          $scope.leftwings.push(data.data[i]);
+          $scope.wings.push(data.data[i]);
           break;
         case 'C':
           $scope.centers.push(data.data[i]);
           break;
         case 'RW':
-          $scope.rightwings.push(data.data[i]);
+          $scope.wings.push(data.data[i]);
           break;
         case 'D':
           $scope.defence.push(data.data[i]);

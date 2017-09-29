@@ -1,4 +1,4 @@
-angular.module('apf.charts').directive('objectList', function () {
+angular.module('apf.util').directive('objectList', function () {
   'use strict';
   return {
     restrict: 'A',

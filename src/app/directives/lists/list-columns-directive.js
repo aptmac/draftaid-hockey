@@ -1,4 +1,4 @@
-angular.module('apf.charts').directive('listColumns', function () {
+angular.module('apf.util').directive('listColumns', function () {
   'use strict';
   return {
     restrict: 'A',

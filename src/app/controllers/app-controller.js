@@ -2,8 +2,6 @@ angular.module('apf.appModule').controller( 'apf.appController', ['$scope', '$ro
   function ($scope, $rootScope, $resource ) {
     'use strict';
 
-    $scope.username = 'Administrator';
-
     //Navigation should be loaded from a service
     $scope.navigationItems = [];
 
