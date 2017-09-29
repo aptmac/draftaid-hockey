@@ -22,13 +22,19 @@ angular.module('apf.draftModule')
     $scope.goaliesLeft = $scope.goalies.length;
 
     $scope.listConfig = {
-      selectItems: false,
-      multiSelect: false,
-      // showSelectBox: false,
-      // selectionMatchProp: 'rank',
-      // selectedItems: [],
-      // rowHeight: 10,
-      // checkDisabled: true,
+      selectedItems: [],
+      showSelectBox: true,
+      dblClick: true,
+      onDblClick: function (item) {
+        if ($scope.listConfig.selectedItems.includes(item)) {
+          $scope.pickNumber--;
+          let i = $scope.listConfig.selectedItems.indexOf(item);
+          $scope.listConfig.selectedItems.splice(i);
+        } else {
+          $scope.listConfig.selectedItems.push(item);
+          $scope.pickNumber++;
+        }
+      },
     };
 
     $scope.columns = [
