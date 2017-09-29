@@ -6,6 +6,9 @@ Fantasy Hockey Draft Companion Application
 
 This is a tool to help you elevate your fantasy hockey drafting skills. It uses ranking information from [fantasypros.com](https://www.fantasypros.com/nhl/rankings/overall.php) to organize outstanding undrafted players. The 'draft' page of this application contains interactive tables that allow you to remove drafted players from the pool of overall players, and will provide you rankings for the rest of the undrafted players. There are tables for each of the fantasy positions: left wing, center, right wing, defense, and goalie. When a player is drafted, you click on their name in the table, and it will move them to the drafted players table. Use this to help you choose your next pick!
 
+### TODO:
+1. Implement the draft board - it doesn't work at all yet
+
 ### How To Launch The Application Locally:
 
 #### Installation:
