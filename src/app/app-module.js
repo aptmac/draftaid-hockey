@@ -19,14 +19,15 @@ angular.module ('apf.appModule', [
 
     $routeProvider
       .when('/', {
-        redirectTo: '/dashboard'
+        redirectTo: '/draft'
       })
-      .when('/dashboard', {
-        templateUrl: 'src/dashboard/dashboard.html'
+      .when('/404', {
+        templateUrl: 'src/templates/404.html'
       })
 
-      // Default
+      // Otherwise, it's a page we don't have
       .otherwise({
+        redirectTo: '/404'
       });
 
     $translateProvider.translations('default', 'en');

@@ -1,1 +1,6 @@
-angular.module('apfdraftModule').controller('draftController',[]);
+angular.module('apf.draftModule')
+  .controller('draftController', ['$scope',
+  function () {
+
+  }
+]);

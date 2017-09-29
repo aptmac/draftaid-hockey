@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Fantasy Hockey draft companion application",
   "license": "Apache-2.0",
-  "homepage": "https://www.patternfly.org",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/aptmac/draftaid-hockey"

@@ -9,7 +9,7 @@
     <meta name="description" content=""/>
     <meta name="viewport" content="width=device-width"/>
 
-    <link rel="shortcut icon" href="favicon.ico?v=1"/>
+    <link rel="shortcut icon" href="styles/images/favicon.png"/>
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
      <!-- build:css styles/css/bower_components.css -->
@@ -26,19 +26,17 @@
 <body id="pf-app" class="pf-body apf-body ng-cloak">
   <div ng-controller="apf.appController">
     <div pf-vertical-navigation items="navigationItems" brand-alt="DRAFT AID: FANTASY HOCKEY">
-      <div ng-controller="apf.navBarController">
-        <ul class="nav navbar-nav navbar-right navbar-iconic">
-          <li class="dropdown">
-            <a class="dropdown-toggle nav-item-iconic" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-              <span title="Help" class="fa pficon-help"></span>
-              <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-              <li><a href="#/help">Help</a></li>
-            </ul>
-          </li>
-        </ul>
-      </div>
+      <ul class="nav navbar-nav navbar-right navbar-iconic">
+        <li class="dropdown">
+          <a class="dropdown-toggle nav-item-iconic" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            <span title="Help" class="fa pficon-help"></span>
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+            <li><a href="#/help">Help</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
   </div>
 

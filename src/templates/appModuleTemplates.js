@@ -200,4 +200,9 @@ angular.module('apf.appModule').run(['$templateCache', function($templateCache) 
     "<div class=\"blank-slate-pf\" id=\"\"><div class=\"blank-slate-pf-icon\"><span class=\"pficon pficon pficon-add-circle-o\"></span></div><h1>Your Team!</h1><p>This is where you'll be able to see your drafted team.</p></div>"
   );
 
+
+  $templateCache.put('src/templates/404.html',
+    "<div class=\"alert alert-danger\"><span class=\"pficon pficon-error-circle-o\"></span> <strong>404: Page not found</strong></div><div class=\"blank-slate-pf\" id=\"\"><div class=\"blank-slate-pf-icon\"><span class=\"fa fa-frown-o fa-lg\"></span></div><h1>404: The page you were looking for doesn't exist</h1><p>What were you doing ... ?</p></div>"
+  );
+
 }]);
