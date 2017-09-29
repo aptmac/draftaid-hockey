@@ -4,57 +4,57 @@ angular.module('apf.util').factory('ListUtils', ['ColumnsConfig', function listU
   var rankColumn = {
     columnType: 'label',
     title: 'Rank',
-    field: 'rank',
-    width: 160
+    field: 'Rank',
+    width: columnsConfig.rankColumnWidth
   };
 
   var playerColumn = {
     columnType: 'label',
     title: 'Player',
-    field: 'player',
-    width: 160
+    field: 'Player',
+    width: columnsConfig.playerColumnWidth
   };
 
   var positionColumn = {
     columnType: 'label',
     title: 'Position',
-    field: 'position',
-    width: 160
+    field: 'Position',
+    width: columnsConfig.positionColumnWidth
   };
 
   var teamColumn = {
     columnType: 'label',
     title: 'Team',
-    field: 'team',
-    width: 160
+    field: 'Team',
+    width: columnsConfig.teamColumnWidth
   };
 
   var bestColumn = {
     columnType: 'label',
     title: 'Best',
-    field: 'best',
-    width: 160
+    field: 'Best',
+    width: columnsConfig.bestColumnWidth
   };
 
   var worstColumn = {
     columnType: 'label',
     title: 'Worst',
-    field: 'worst',
-    width: 160
+    field: 'Worst',
+    width: columnsConfig.worstColumnWidth
   };
 
   var averageColumn = {
     columnType: 'label',
-    title: 'Rank',
-    field: 'average',
-    width: 160
+    title: 'Average',
+    field: 'Avg',
+    width: columnsConfig.averageColumnWidth
   };
 
   var stdDevColumn = {
     columnType: 'label',
     title: 'Standard Deviation',
-    field: 'stddev',
-    width: 160
+    field: 'StdDev',
+    width: columnsConfig.stdDevColumnWidth
   };
 
   var nameColumn = {

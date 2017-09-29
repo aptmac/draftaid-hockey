@@ -33,9 +33,21 @@ angular.module('apf.draftModule')
       views: [pfViewUtils.getListView()],
     };
 
+    var filterConfig = {
+      fields: [
+        listUtils.nameFilter
+      ],
+      resultsCount: 0,
+      appliedFilters: [],
+      // onFilterChange: filterChange
+    };
+
     $scope.toolbarConfig = {
       viewsConfig: $scope.viewsConfig,
+      filterConfig: filterConfig
     };
+
+    $scope.centersLoaded = false;
 
     // Read in all that juicy ranking data, and store it in scope vars
     $resource('mock_data/players/all').get(function (data) {

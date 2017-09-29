@@ -4,9 +4,8 @@
     <li>Pods</li>
   </ol>
   <div pf-toolbar class="row" config="toolbarConfig"></div>
-  <div object-list list-class="pods-list row" list-id="{{listId}}"
-       list-config="listConfig" items="pods" columns="columns"
-       ng-if="podsLoaded && podsViewType == 'listView'">
+  <div object-list list-class="pods-list row" 
+       list-config="listConfig" items="pods" columns="columns">
   </div>
   <div pf-card-view id="{{listId}}" class="pods-cards" config="listConfig" items="pods" ng-if="podsLoaded && podsViewType == 'cardView'">
     <div class="card-title">

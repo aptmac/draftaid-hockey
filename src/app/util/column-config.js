@@ -1,6 +1,14 @@
 angular.module('apf.util').factory('ColumnsConfig', [function columnsConfigFactory () {
   'use strict';
   return {
+    rankColumnWidth: 100,
+    playerColumnWidth: 100,
+    positionColumnWidth: 100,
+    teamColumnWidth: 100,
+    bestColumnWidth: 100,
+    worstColumnWidth: 100,
+    averageColumnWidth: 100,
+    stdDevColumnWidth: 100,
     nameColumnWidth: 160,
     cpuUsageColumnWidth: 150,
     cpuUsageTitleWidth: 95,
