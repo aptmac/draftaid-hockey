@@ -1,12 +1,12 @@
 {
-  "name": "angular-patternfly-demo-app",
+  "name": "draftaid-hockey",
   "version": "0.0.1",
-  "description": "Demo Application for Anuglar Patternfly",
+  "description": "A Fantasy Hockey draft companion application",
   "license": "Apache-2.0",
   "homepage": "https://www.patternfly.org",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/aptmac/draftaid-hockey"
   },
   "ignore": [
     "**/.*",

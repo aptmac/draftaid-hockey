@@ -6,16 +6,13 @@ angular.module ('apf.appModule', [
   'patternfly',
   'patternfly.toolbars',
   'patternfly.charts',
-  'apf.util',
-  'apf.charts',
-  'apf.card',
-  'apf.dashboardModule',
-  'apf.cloudsModule',
+  // 'apf.util',
+  // 'apf.charts',
+  // 'apf.card',
   'apf.containersModule',
-  'apf.infrastructureModule',
-  'apf.applicationsModule',
-  'apf.reportsModule',
-  'apf.adminModule'
+  'apf.draftModule',
+  'apf.teamModule',
+  'apf.helpModule'
 ]).config(['$routeProvider', '$translateProvider',
   function ($routeProvider, $translateProvider) {
     'use strict';

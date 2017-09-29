@@ -1,15 +1,15 @@
 {
-  "name": "angular-patternfly-demo-app",
+  "name": "draftaid-hockey",
   "version": "0.0.1",
   "private": true,
-  "description": "Demo Application for Angular Patternfly",
+  "description": "A Fantasy Hockey draft companion application",
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patternfly/angular-patternfly-demo-app"
+    "url": "https://github.com/aptmac/draftaid-hockey"
   },
-  "author": "jeff-phillips-18",
-  "license": "Red Hat",
+  "author": "aptmac",
+  "license": "",
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-angular-file-loader": "^1.2.0",

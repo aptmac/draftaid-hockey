@@ -1,0 +1,3264 @@
+{
+  "data": [
+    {
+      "Rank": 1,
+      "Player": "Connor McDavid",
+      "Pos.": "C",
+      "Team": "EDM",
+      "Best": 1,
+      "Worst": 1,
+      "Avg": 1,
+      "Std Dev": 0
+    },
+    {
+      "Rank": 2,
+      "Player": "Sidney Crosby",
+      "Pos.": "C",
+      "Team": "PIT",
+      "Best": 2,
+      "Worst": 2,
+      "Avg": 2,
+      "Std Dev": 0
+    },
+    {
+      "Rank": 3,
+      "Player": "Nikita Kucherov",
+      "Pos.": "RW",
+      "Team": "TB",
+      "Best": 3,
+      "Worst": 9,
+      "Avg": 4.8,
+      "Std Dev": 2.1
+    },
+    {
+      "Rank": 4,
+      "Player": "Patrick Kane",
+      "Pos.": "RW",
+      "Team": "CHI",
+      "Best": 3,
+      "Worst": 11,
+      "Avg": 5.4,
+      "Std Dev": 3.2
+    },
+    {
+      "Rank": 5,
+      "Player": "Auston Matthews",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 3,
+      "Worst": 10,
+      "Avg": 6.2,
+      "Std Dev": 2.8
+    },
+    {
+      "Rank": 6,
+      "Player": "Alex Ovechkin",
+      "Pos.": "LW",
+      "Team": "WSH",
+      "Best": 4,
+      "Worst": 8,
+      "Avg": 6.4,
+      "Std Dev": 1.6
+    },
+    {
+      "Rank": 7,
+      "Player": "Jamie Benn",
+      "Pos.": "LW",
+      "Team": "DAL",
+      "Best": 5,
+      "Worst": 12,
+      "Avg": 7.8,
+      "Std Dev": 2.4
+    },
+    {
+      "Rank": 8,
+      "Player": "Brent Burns",
+      "Pos.": "D",
+      "Team": "SJ",
+      "Best": 6,
+      "Worst": 18,
+      "Avg": 8.6,
+      "Std Dev": 4.7
+    },
+    {
+      "Rank": 9,
+      "Player": "Vladimir Tarasenko",
+      "Pos.": "RW",
+      "Team": "STL",
+      "Best": 7,
+      "Worst": 11,
+      "Avg": 9.4,
+      "Std Dev": 2
+    },
+    {
+      "Rank": 10,
+      "Player": "Carey Price",
+      "Pos.": "G",
+      "Team": "MTL",
+      "Best": 5,
+      "Worst": 23,
+      "Avg": 11.4,
+      "Std Dev": 6.2
+    },
+    {
+      "Rank": 11,
+      "Player": "Evgeni Malkin",
+      "Pos.": "C",
+      "Team": "PIT",
+      "Best": 9,
+      "Worst": 16,
+      "Avg": 12.8,
+      "Std Dev": 2.9
+    },
+    {
+      "Rank": 12,
+      "Player": "Jack Eichel",
+      "Pos.": "C",
+      "Team": "BUF",
+      "Best": 6,
+      "Worst": 19,
+      "Avg": 13.2,
+      "Std Dev": 4.6
+    },
+    {
+      "Rank": 13,
+      "Player": "Tyler Seguin",
+      "Pos.": "C",
+      "Team": "DAL",
+      "Best": 5,
+      "Worst": 24,
+      "Avg": 13.6,
+      "Std Dev": 6.3
+    },
+    {
+      "Rank": 14,
+      "Player": "Braden Holtby",
+      "Pos.": "G",
+      "Team": "WSH",
+      "Best": 9,
+      "Worst": 24,
+      "Avg": 14,
+      "Std Dev": 5.4
+    },
+    {
+      "Rank": 15,
+      "Player": "Brad Marchand",
+      "Pos.": "LW",
+      "Team": "BOS",
+      "Best": 10,
+      "Worst": 19,
+      "Avg": 14.6,
+      "Std Dev": 3.1
+    },
+    {
+      "Rank": 16,
+      "Player": "Nicklas Backstrom",
+      "Pos.": "C",
+      "Team": "WSH",
+      "Best": 12,
+      "Worst": 21,
+      "Avg": 17.4,
+      "Std Dev": 3.7
+    },
+    {
+      "Rank": 17,
+      "Player": "Mark Scheifele",
+      "Pos.": "C",
+      "Team": "WPG",
+      "Best": 15,
+      "Worst": 20,
+      "Avg": 17.4,
+      "Std Dev": 1.7
+    },
+    {
+      "Rank": 18,
+      "Player": "Erik Karlsson",
+      "Pos.": "D",
+      "Team": "OTT",
+      "Best": 13,
+      "Worst": 24,
+      "Avg": 18,
+      "Std Dev": 4.3
+    },
+    {
+      "Rank": 19,
+      "Player": "Steven Stamkos",
+      "Pos.": "C",
+      "Team": "TB",
+      "Best": 14,
+      "Worst": 30,
+      "Avg": 19,
+      "Std Dev": 6
+    },
+    {
+      "Rank": 20,
+      "Player": "John Tavares",
+      "Pos.": "C",
+      "Team": "NYI",
+      "Best": 16,
+      "Worst": 23,
+      "Avg": 19.4,
+      "Std Dev": 2.6
+    },
+    {
+      "Rank": 21,
+      "Player": "Matt Murray",
+      "Pos.": "G",
+      "Team": "PIT",
+      "Best": 17,
+      "Worst": 22,
+      "Avg": 19.4,
+      "Std Dev": 1.6
+    },
+    {
+      "Rank": 22,
+      "Player": "Patrik Laine",
+      "Pos.": "LW",
+      "Team": "WPG",
+      "Best": 12,
+      "Worst": 29,
+      "Avg": 20.4,
+      "Std Dev": 6.7
+    },
+    {
+      "Rank": 23,
+      "Player": "Victor Hedman",
+      "Pos.": "D",
+      "Team": "TB",
+      "Best": 18,
+      "Worst": 33,
+      "Avg": 24.8,
+      "Std Dev": 5.4
+    },
+    {
+      "Rank": 24,
+      "Player": "Dustin Byfuglien",
+      "Pos.": "D",
+      "Team": "WPG",
+      "Best": 23,
+      "Worst": 34,
+      "Avg": 27,
+      "Std Dev": 3.8
+    },
+    {
+      "Rank": 25,
+      "Player": "Cam Talbot",
+      "Pos.": "G",
+      "Team": "EDM",
+      "Best": 23,
+      "Worst": 30,
+      "Avg": 27.2,
+      "Std Dev": 2.5
+    },
+    {
+      "Rank": 26,
+      "Player": "Sergei Bobrovsky",
+      "Pos.": "G",
+      "Team": "CBJ",
+      "Best": 22,
+      "Worst": 36,
+      "Avg": 28.2,
+      "Std Dev": 6
+    },
+    {
+      "Rank": 27,
+      "Player": "Leon Draisaitl",
+      "Pos.": "C",
+      "Team": "EDM",
+      "Best": 16,
+      "Worst": 58,
+      "Avg": 30.4,
+      "Std Dev": 16.3
+    },
+    {
+      "Rank": 28,
+      "Player": "Blake Wheeler",
+      "Pos.": "RW",
+      "Team": "WPG",
+      "Best": 26,
+      "Worst": 39,
+      "Avg": 31,
+      "Std Dev": 4.6
+    },
+    {
+      "Rank": 29,
+      "Player": "Max Pacioretty",
+      "Pos.": "LW",
+      "Team": "MTL",
+      "Best": 21,
+      "Worst": 43,
+      "Avg": 31.4,
+      "Std Dev": 7.2
+    },
+    {
+      "Rank": 30,
+      "Player": "Johnny Gaudreau",
+      "Pos.": "LW",
+      "Team": "CGY",
+      "Best": 22,
+      "Worst": 37,
+      "Avg": 32.4,
+      "Std Dev": 5.3
+    },
+    {
+      "Rank": 31,
+      "Player": "Artemi Panarin",
+      "Pos.": "LW",
+      "Team": "CBJ",
+      "Best": 26,
+      "Worst": 39,
+      "Avg": 33,
+      "Std Dev": 5
+    },
+    {
+      "Rank": 32,
+      "Player": "David Pastrnak",
+      "Pos.": "RW",
+      "Team": "BOS",
+      "Best": 26,
+      "Worst": 43,
+      "Avg": 33.4,
+      "Std Dev": 5.9
+    },
+    {
+      "Rank": 33,
+      "Player": "Ryan Getzlaf",
+      "Pos.": "C",
+      "Team": "ANA",
+      "Best": 27,
+      "Worst": 48,
+      "Avg": 34.2,
+      "Std Dev": 7.7
+    },
+    {
+      "Rank": 34,
+      "Player": "Filip Forsberg",
+      "Pos.": "LW",
+      "Team": "NSH",
+      "Best": 22,
+      "Worst": 42,
+      "Avg": 34.6,
+      "Std Dev": 6.7
+    },
+    {
+      "Rank": 35,
+      "Player": "Patrice Bergeron",
+      "Pos.": "C",
+      "Team": "BOS",
+      "Best": 25,
+      "Worst": 50,
+      "Avg": 35.6,
+      "Std Dev": 10
+    },
+    {
+      "Rank": 36,
+      "Player": "Joe Pavelski",
+      "Pos.": "C",
+      "Team": "SJ",
+      "Best": 30,
+      "Worst": 38,
+      "Avg": 35.6,
+      "Std Dev": 2.9
+    },
+    {
+      "Rank": 37,
+      "Player": "Roman Josi",
+      "Pos.": "D",
+      "Team": "NSH",
+      "Best": 28,
+      "Worst": 66,
+      "Avg": 39,
+      "Std Dev": 13.9
+    },
+    {
+      "Rank": 38,
+      "Player": "Phil Kessel",
+      "Pos.": "RW",
+      "Team": "PIT",
+      "Best": 27,
+      "Worst": 50,
+      "Avg": 39.2,
+      "Std Dev": 10.1
+    },
+    {
+      "Rank": 39,
+      "Player": "Wayne Simmonds",
+      "Pos.": "RW",
+      "Team": "PHI",
+      "Best": 31,
+      "Worst": 47,
+      "Avg": 39.6,
+      "Std Dev": 5.1
+    },
+    {
+      "Rank": 40,
+      "Player": "Devan Dubnyk",
+      "Pos.": "G",
+      "Team": "MIN",
+      "Best": 26,
+      "Worst": 56,
+      "Avg": 42.6,
+      "Std Dev": 9.6
+    },
+    {
+      "Rank": 41,
+      "Player": "Evgeny Kuznetsov",
+      "Pos.": "C",
+      "Team": "WSH",
+      "Best": 39,
+      "Worst": 47,
+      "Avg": 43,
+      "Std Dev": 3
+    },
+    {
+      "Rank": 42,
+      "Player": "P.K. Subban",
+      "Pos.": "D",
+      "Team": "NSH",
+      "Best": 40,
+      "Worst": 56,
+      "Avg": 46.6,
+      "Std Dev": 6.1
+    },
+    {
+      "Rank": 43,
+      "Player": "Tuukka Rask",
+      "Pos.": "G",
+      "Team": "BOS",
+      "Best": 41,
+      "Worst": 54,
+      "Avg": 48.2,
+      "Std Dev": 4.2
+    },
+    {
+      "Rank": 44,
+      "Player": "Jake Allen",
+      "Pos.": "G",
+      "Team": "STL",
+      "Best": 32,
+      "Worst": 76,
+      "Avg": 49.4,
+      "Std Dev": 17.4
+    },
+    {
+      "Rank": 45,
+      "Player": "William Nylander",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 42,
+      "Worst": 67,
+      "Avg": 51.2,
+      "Std Dev": 8.8
+    },
+    {
+      "Rank": 46,
+      "Player": "Corey Crawford",
+      "Pos.": "G",
+      "Team": "CHI",
+      "Best": 31,
+      "Worst": 71,
+      "Avg": 52,
+      "Std Dev": 14.3
+    },
+    {
+      "Rank": 47,
+      "Player": "Pekka Rinne",
+      "Pos.": "G",
+      "Team": "NSH",
+      "Best": 37,
+      "Worst": 63,
+      "Avg": 52,
+      "Std Dev": 10.8
+    },
+    {
+      "Rank": 48,
+      "Player": "Sean Monahan",
+      "Pos.": "C",
+      "Team": "CGY",
+      "Best": 45,
+      "Worst": 61,
+      "Avg": 54.2,
+      "Std Dev": 5.2
+    },
+    {
+      "Rank": 49,
+      "Player": "Jeff Carter",
+      "Pos.": "C",
+      "Team": "LA",
+      "Best": 46,
+      "Worst": 71,
+      "Avg": 54.8,
+      "Std Dev": 10
+    },
+    {
+      "Rank": 50,
+      "Player": "Shea Weber",
+      "Pos.": "D",
+      "Team": "MTL",
+      "Best": 38,
+      "Worst": 83,
+      "Avg": 55,
+      "Std Dev": 15.5
+    },
+    {
+      "Rank": 51,
+      "Player": "Jonathan Quick",
+      "Pos.": "G",
+      "Team": "LA",
+      "Best": 46,
+      "Worst": 82,
+      "Avg": 57,
+      "Std Dev": 13.2
+    },
+    {
+      "Rank": 52,
+      "Player": "Andrei Vasilevskiy",
+      "Pos.": "G",
+      "Team": "TB",
+      "Best": 48,
+      "Worst": 66,
+      "Avg": 57,
+      "Std Dev": 6.1
+    },
+    {
+      "Rank": 53,
+      "Player": "Duncan Keith",
+      "Pos.": "D",
+      "Team": "CHI",
+      "Best": 36,
+      "Worst": 81,
+      "Avg": 57.6,
+      "Std Dev": 16.3
+    },
+    {
+      "Rank": 54,
+      "Player": "John Gibson",
+      "Pos.": "G",
+      "Team": "ANA",
+      "Best": 43,
+      "Worst": 91,
+      "Avg": 58,
+      "Std Dev": 17.4
+    },
+    {
+      "Rank": 55,
+      "Player": "Claude Giroux",
+      "Pos.": "RW",
+      "Team": "PHI",
+      "Best": 53,
+      "Worst": 64,
+      "Avg": 58.2,
+      "Std Dev": 3.7
+    },
+    {
+      "Rank": 56,
+      "Player": "Mitchell Marner",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 31,
+      "Worst": 86,
+      "Avg": 58.4,
+      "Std Dev": 22.7
+    },
+    {
+      "Rank": 57,
+      "Player": "Kris Letang",
+      "Pos.": "D",
+      "Team": "PIT",
+      "Best": 34,
+      "Worst": 143,
+      "Avg": 67.4,
+      "Std Dev": 42.1
+    },
+    {
+      "Rank": 58,
+      "Player": "Zachary Werenski",
+      "Pos.": "D",
+      "Team": "CBJ",
+      "Best": 39,
+      "Worst": 80,
+      "Avg": 59.6,
+      "Std Dev": 13.3
+    },
+    {
+      "Rank": 59,
+      "Player": "Rasmus Ristolainen",
+      "Pos.": "D",
+      "Team": "BUF",
+      "Best": 32,
+      "Worst": 77,
+      "Avg": 59.8,
+      "Std Dev": 15.8
+    },
+    {
+      "Rank": 60,
+      "Player": "Ryan Johansen",
+      "Pos.": "C",
+      "Team": "NSH",
+      "Best": 53,
+      "Worst": 75,
+      "Avg": 60.4,
+      "Std Dev": 7.9
+    },
+    {
+      "Rank": 61,
+      "Player": "Mike Hoffman",
+      "Pos.": "C",
+      "Team": "OTT",
+      "Best": 43,
+      "Worst": 68,
+      "Avg": 60.6,
+      "Std Dev": 9.1
+    },
+    {
+      "Rank": 62,
+      "Player": "Aleksander Barkov",
+      "Pos.": "C",
+      "Team": "FLA",
+      "Best": 52,
+      "Worst": 74,
+      "Avg": 62.4,
+      "Std Dev": 7.7
+    },
+    {
+      "Rank": 63,
+      "Player": "Dougie Hamilton",
+      "Pos.": "D",
+      "Team": "CGY",
+      "Best": 34,
+      "Worst": 97,
+      "Avg": 62.6,
+      "Std Dev": 21.3
+    },
+    {
+      "Rank": 64,
+      "Player": "Kevin Shattenkirk",
+      "Pos.": "D",
+      "Team": "NYR",
+      "Best": 50,
+      "Worst": 100,
+      "Avg": 67.6,
+      "Std Dev": 18.2
+    },
+    {
+      "Rank": 65,
+      "Player": "Jonathan Toews",
+      "Pos.": "C",
+      "Team": "CHI",
+      "Best": 51,
+      "Worst": 83,
+      "Avg": 69.8,
+      "Std Dev": 12.2
+    },
+    {
+      "Rank": 66,
+      "Player": "Cam Atkinson",
+      "Pos.": "RW",
+      "Team": "CBJ",
+      "Best": 48,
+      "Worst": 82,
+      "Avg": 70,
+      "Std Dev": 12.1
+    },
+    {
+      "Rank": 67,
+      "Player": "Martin Jones",
+      "Pos.": "G",
+      "Team": "SJ",
+      "Best": 46,
+      "Worst": 93,
+      "Avg": 70.6,
+      "Std Dev": 18.6
+    },
+    {
+      "Rank": 68,
+      "Player": "Ben Bishop",
+      "Pos.": "G",
+      "Team": "DAL",
+      "Best": 49,
+      "Worst": 101,
+      "Avg": 71.6,
+      "Std Dev": 18.9
+    },
+    {
+      "Rank": 69,
+      "Player": "Alexander Radulov",
+      "Pos.": "LW",
+      "Team": "DAL",
+      "Best": 49,
+      "Worst": 94,
+      "Avg": 72.4,
+      "Std Dev": 18.8
+    },
+    {
+      "Rank": 70,
+      "Player": "Drew Doughty",
+      "Pos.": "D",
+      "Team": "LA",
+      "Best": 51,
+      "Worst": 125,
+      "Avg": 77.2,
+      "Std Dev": 26.4
+    },
+    {
+      "Rank": 71,
+      "Player": "Mikael Granlund",
+      "Pos.": "C",
+      "Team": "MIN",
+      "Best": 50,
+      "Worst": 109,
+      "Avg": 75,
+      "Std Dev": 20.5
+    },
+    {
+      "Rank": 72,
+      "Player": "Jeff Skinner",
+      "Pos.": "C",
+      "Team": "CAR",
+      "Best": 65,
+      "Worst": 84,
+      "Avg": 73.6,
+      "Std Dev": 6.1
+    },
+    {
+      "Rank": 73,
+      "Player": "Brandon Saad",
+      "Pos.": "LW",
+      "Team": "CHI",
+      "Best": 58,
+      "Worst": 86,
+      "Avg": 74,
+      "Std Dev": 10
+    },
+    {
+      "Rank": 74,
+      "Player": "Taylor Hall",
+      "Pos.": "LW",
+      "Team": "NJ",
+      "Best": 54,
+      "Worst": 93,
+      "Avg": 75,
+      "Std Dev": 12.7
+    },
+    {
+      "Rank": 75,
+      "Player": "Jonathan Huberdeau",
+      "Pos.": "C",
+      "Team": "FLA",
+      "Best": 59,
+      "Worst": 85,
+      "Avg": 75.2,
+      "Std Dev": 8.7
+    },
+    {
+      "Rank": 76,
+      "Player": "Nikolaj Ehlers",
+      "Pos.": "LW",
+      "Team": "WPG",
+      "Best": 64,
+      "Worst": 90,
+      "Avg": 75.4,
+      "Std Dev": 9.3
+    },
+    {
+      "Rank": 77,
+      "Player": "Alex Pietrangelo",
+      "Pos.": "D",
+      "Team": "STL",
+      "Best": 68,
+      "Worst": 88,
+      "Avg": 77.6,
+      "Std Dev": 6.6
+    },
+    {
+      "Rank": 78,
+      "Player": "T.J. Oshie",
+      "Pos.": "RW",
+      "Team": "WSH",
+      "Best": 55,
+      "Worst": 91,
+      "Avg": 77.8,
+      "Std Dev": 13.2
+    },
+    {
+      "Rank": 79,
+      "Player": "Henrik Lundqvist",
+      "Pos.": "G",
+      "Team": "NYR",
+      "Best": 51,
+      "Worst": 118,
+      "Avg": 81.4,
+      "Std Dev": 24.1
+    },
+    {
+      "Rank": 80,
+      "Player": "Viktor Arvidsson",
+      "Pos.": "LW",
+      "Team": "NSH",
+      "Best": 52,
+      "Worst": 117,
+      "Avg": 82,
+      "Std Dev": 24.4
+    },
+    {
+      "Rank": 81,
+      "Player": "Brayden Schenn",
+      "Pos.": "C",
+      "Team": "STL",
+      "Best": 42,
+      "Worst": 148,
+      "Avg": 89.6,
+      "Std Dev": 34.1
+    },
+    {
+      "Rank": 82,
+      "Player": "Oliver Ekman-Larsson",
+      "Pos.": "D",
+      "Team": "ARI",
+      "Best": 45,
+      "Worst": 115,
+      "Avg": 85.8,
+      "Std Dev": 26.6
+    },
+    {
+      "Rank": 83,
+      "Player": "Jake Guentzel",
+      "Pos.": "LW",
+      "Team": "PIT",
+      "Best": 62,
+      "Worst": 123,
+      "Avg": 84.6,
+      "Std Dev": 21.7
+    },
+    {
+      "Rank": 84,
+      "Player": "Logan Couture",
+      "Pos.": "C",
+      "Team": "SJ",
+      "Best": 65,
+      "Worst": 116,
+      "Avg": 83.4,
+      "Std Dev": 19.3
+    },
+    {
+      "Rank": 85,
+      "Player": "John Klingberg",
+      "Pos.": "D",
+      "Team": "DAL",
+      "Best": 66,
+      "Worst": 119,
+      "Avg": 85,
+      "Std Dev": 18.5
+    },
+    {
+      "Rank": 86,
+      "Player": "Anze Kopitar",
+      "Pos.": "C",
+      "Team": "LA",
+      "Best": 62,
+      "Worst": 101,
+      "Avg": 81.6,
+      "Std Dev": 14.9
+    },
+    {
+      "Rank": 87,
+      "Player": "Jonathan Drouin",
+      "Pos.": "LW",
+      "Team": "MTL",
+      "Best": 67,
+      "Worst": 99,
+      "Avg": 84.4,
+      "Std Dev": 12.3
+    },
+    {
+      "Rank": 88,
+      "Player": "Frederik Andersen",
+      "Pos.": "G",
+      "Team": "TOR",
+      "Best": 68,
+      "Worst": 115,
+      "Avg": 89.6,
+      "Std Dev": 19.4
+    },
+    {
+      "Rank": 89,
+      "Player": "Nazem Kadri",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 61,
+      "Worst": 120,
+      "Avg": 92,
+      "Std Dev": 25.7
+    },
+    {
+      "Rank": 90,
+      "Player": "James Van Riemsdyk",
+      "Pos.": "LW",
+      "Team": "TOR",
+      "Best": 70,
+      "Worst": 94,
+      "Avg": 85,
+      "Std Dev": 8.9
+    },
+    {
+      "Rank": 91,
+      "Player": "Jakub Voracek",
+      "Pos.": "RW",
+      "Team": "PHI",
+      "Best": 69,
+      "Worst": 100,
+      "Avg": 86,
+      "Std Dev": 9.9
+    },
+    {
+      "Rank": 92,
+      "Player": "Mark Giordano",
+      "Pos.": "D",
+      "Team": "CGY",
+      "Best": 63,
+      "Worst": 151,
+      "Avg": 97.8,
+      "Std Dev": 30.1
+    },
+    {
+      "Rank": 93,
+      "Player": "Corey Perry",
+      "Pos.": "RW",
+      "Team": "ANA",
+      "Best": 69,
+      "Worst": 106,
+      "Avg": 89.6,
+      "Std Dev": 16.5
+    },
+    {
+      "Rank": 94,
+      "Player": "Ryan O'Reilly",
+      "Pos.": "C",
+      "Team": "BUF",
+      "Best": 76,
+      "Worst": 109,
+      "Avg": 90.4,
+      "Std Dev": 13.6
+    },
+    {
+      "Rank": 95,
+      "Player": "Oscar Klefbom",
+      "Pos.": "D",
+      "Team": "EDM",
+      "Best": 75,
+      "Worst": 121,
+      "Avg": 94.6,
+      "Std Dev": 16.3
+    },
+    {
+      "Rank": 96,
+      "Player": "Cory Schneider",
+      "Pos.": "G",
+      "Team": "NJ",
+      "Best": 59,
+      "Worst": 141,
+      "Avg": 104.4,
+      "Std Dev": 27.2
+    },
+    {
+      "Rank": 97,
+      "Player": "Jordan Eberle",
+      "Pos.": "RW",
+      "Team": "NYI",
+      "Best": 72,
+      "Worst": 108,
+      "Avg": 92.6,
+      "Std Dev": 11.7
+    },
+    {
+      "Rank": 98,
+      "Player": "Sebastian Aho",
+      "Pos.": "RW",
+      "Team": "CAR",
+      "Best": 82,
+      "Worst": 124,
+      "Avg": 96.2,
+      "Std Dev": 14.7
+    },
+    {
+      "Rank": 99,
+      "Player": "Torey Krug",
+      "Pos.": "D",
+      "Team": "BOS",
+      "Best": 83,
+      "Worst": 107,
+      "Avg": 93.8,
+      "Std Dev": 7.8
+    },
+    {
+      "Rank": 100,
+      "Player": "Ryan Suter",
+      "Pos.": "D",
+      "Team": "MIN",
+      "Best": 82,
+      "Worst": 150,
+      "Avg": 107.4,
+      "Std Dev": 24.1
+    },
+    {
+      "Rank": 101,
+      "Player": "Justin Faulk",
+      "Pos.": "D",
+      "Team": "CAR",
+      "Best": 86,
+      "Worst": 170,
+      "Avg": 111.4,
+      "Std Dev": 30.9
+    },
+    {
+      "Rank": 102,
+      "Player": "Nick Foligno",
+      "Pos.": "LW",
+      "Team": "CBJ",
+      "Best": 73,
+      "Worst": 176,
+      "Avg": 132.4,
+      "Std Dev": 39.5
+    },
+    {
+      "Rank": 103,
+      "Player": "Rickard Rakell",
+      "Pos.": "RW",
+      "Team": "ANA",
+      "Best": 77,
+      "Worst": 117,
+      "Avg": 103,
+      "Std Dev": 14.6
+    },
+    {
+      "Rank": 104,
+      "Player": "Patrick Maroon",
+      "Pos.": "LW",
+      "Team": "EDM",
+      "Best": 77,
+      "Worst": 160,
+      "Avg": 118.8,
+      "Std Dev": 32.9
+    },
+    {
+      "Rank": 105,
+      "Player": "Justin Schultz",
+      "Pos.": "D",
+      "Team": "PIT",
+      "Best": 88,
+      "Worst": 178,
+      "Avg": 123.2,
+      "Std Dev": 35.2
+    },
+    {
+      "Rank": 106,
+      "Player": "Bo Horvat",
+      "Pos.": "C",
+      "Team": "VAN",
+      "Best": 79,
+      "Worst": 169,
+      "Avg": 139.8,
+      "Std Dev": 34.5
+    },
+    {
+      "Rank": 107,
+      "Player": "Tyler Toffoli",
+      "Pos.": "C",
+      "Team": "LA",
+      "Best": 81,
+      "Worst": 224,
+      "Avg": 127,
+      "Std Dev": 50
+    },
+    {
+      "Rank": 108,
+      "Player": "Shayne Gostisbehere",
+      "Pos.": "D",
+      "Team": "PHI",
+      "Best": 82,
+      "Worst": 136,
+      "Avg": 117.8,
+      "Std Dev": 18.5
+    },
+    {
+      "Rank": 109,
+      "Player": "Scott Darling",
+      "Pos.": "G",
+      "Team": "CAR",
+      "Best": 87,
+      "Worst": 138,
+      "Avg": 118,
+      "Std Dev": 17.3
+    },
+    {
+      "Rank": 110,
+      "Player": "Zach Parise",
+      "Pos.": "LW",
+      "Team": "MIN",
+      "Best": 89,
+      "Worst": 238,
+      "Avg": 149.4,
+      "Std Dev": 51.5
+    },
+    {
+      "Rank": 111,
+      "Player": "Milan Lucic",
+      "Pos.": "LW",
+      "Team": "EDM",
+      "Best": 89,
+      "Worst": 177,
+      "Avg": 133,
+      "Std Dev": 28.3
+    },
+    {
+      "Rank": 112,
+      "Player": "Mike Smith",
+      "Pos.": "G",
+      "Team": "CGY",
+      "Best": 92,
+      "Worst": 157,
+      "Avg": 114,
+      "Std Dev": 22.8
+    },
+    {
+      "Rank": 113,
+      "Player": "Jakob Silfverberg",
+      "Pos.": "RW",
+      "Team": "ANA",
+      "Best": 90,
+      "Worst": 154,
+      "Avg": 129,
+      "Std Dev": 22.7
+    },
+    {
+      "Rank": 114,
+      "Player": "Andre Burakovsky",
+      "Pos.": "LW",
+      "Team": "WSH",
+      "Best": 92,
+      "Worst": 150,
+      "Avg": 123,
+      "Std Dev": 20.2
+    },
+    {
+      "Rank": 115,
+      "Player": "Mark Stone",
+      "Pos.": "RW",
+      "Team": "OTT",
+      "Best": 96,
+      "Worst": 114,
+      "Avg": 104,
+      "Std Dev": 7.5
+    },
+    {
+      "Rank": 116,
+      "Player": "Mika Zibanejad",
+      "Pos.": "C",
+      "Team": "NYR",
+      "Best": 93,
+      "Worst": 157,
+      "Avg": 134.8,
+      "Std Dev": 22.5
+    },
+    {
+      "Rank": 117,
+      "Player": "Seth Jones",
+      "Pos.": "D",
+      "Team": "CBJ",
+      "Best": 96,
+      "Worst": 146,
+      "Avg": 120.4,
+      "Std Dev": 19.9
+    },
+    {
+      "Rank": 118,
+      "Player": "Alex Galchenyuk",
+      "Pos.": "C",
+      "Team": "MTL",
+      "Best": 95,
+      "Worst": 131,
+      "Avg": 119,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 119,
+      "Player": "Evander Kane",
+      "Pos.": "LW",
+      "Team": "BUF",
+      "Best": 95,
+      "Worst": 125,
+      "Avg": 113.8,
+      "Std Dev": 10.2
+    },
+    {
+      "Rank": 120,
+      "Player": "Henrik Zetterberg",
+      "Pos.": "LW",
+      "Team": "DET",
+      "Best": 96,
+      "Worst": 167,
+      "Avg": 119.8,
+      "Std Dev": 24.8
+    },
+    {
+      "Rank": 121,
+      "Player": "Jason Spezza",
+      "Pos.": "C",
+      "Team": "DAL",
+      "Best": 97,
+      "Worst": 156,
+      "Avg": 124.6,
+      "Std Dev": 23.4
+    },
+    {
+      "Rank": 122,
+      "Player": "James Neal",
+      "Pos.": "LW",
+      "Team": "VGK",
+      "Best": 99,
+      "Worst": 135,
+      "Avg": 112.2,
+      "Std Dev": 15.2
+    },
+    {
+      "Rank": 123,
+      "Player": "Ryan Strome",
+      "Pos.": "C",
+      "Team": "EDM",
+      "Best": 98,
+      "Worst": 197,
+      "Avg": 154.6,
+      "Std Dev": 36
+    },
+    {
+      "Rank": 124,
+      "Player": "John Carlson",
+      "Pos.": "D",
+      "Team": "WSH",
+      "Best": 98,
+      "Worst": 162,
+      "Avg": 120.6,
+      "Std Dev": 22.7
+    },
+    {
+      "Rank": 125,
+      "Player": "Alexander Wennberg",
+      "Pos.": "C",
+      "Team": "CBJ",
+      "Best": 99,
+      "Worst": 170,
+      "Avg": 128.6,
+      "Std Dev": 26.7
+    },
+    {
+      "Rank": 126,
+      "Player": "Ryan McDonagh",
+      "Pos.": "D",
+      "Team": "NYR",
+      "Best": 101,
+      "Worst": 212,
+      "Avg": 153.4,
+      "Std Dev": 39.5
+    },
+    {
+      "Rank": 127,
+      "Player": "Eric Staal",
+      "Pos.": "C",
+      "Team": "MIN",
+      "Best": 101,
+      "Worst": 135,
+      "Avg": 117.8,
+      "Std Dev": 12.4
+    },
+    {
+      "Rank": 128,
+      "Player": "Mats Zuccarello",
+      "Pos.": "LW",
+      "Team": "NYR",
+      "Best": 102,
+      "Worst": 165,
+      "Avg": 137.8,
+      "Std Dev": 21.6
+    },
+    {
+      "Rank": 129,
+      "Player": "Nathan MacKinnon",
+      "Pos.": "C",
+      "Team": "COL",
+      "Best": 102,
+      "Worst": 144,
+      "Avg": 116.8,
+      "Std Dev": 14.4
+    },
+    {
+      "Rank": 130,
+      "Player": "Jaden Schwartz",
+      "Pos.": "LW",
+      "Team": "STL",
+      "Best": 102,
+      "Worst": 128,
+      "Avg": 112.6,
+      "Std Dev": 9.6
+    },
+    {
+      "Rank": 131,
+      "Player": "Evgeny Dadonov",
+      "Pos.": "LW",
+      "Team": "FLA",
+      "Best": 103,
+      "Worst": 147,
+      "Avg": 119,
+      "Std Dev": 19.9
+    },
+    {
+      "Rank": 132,
+      "Player": "Ryan Kesler",
+      "Pos.": "C",
+      "Team": "ANA",
+      "Best": 104,
+      "Worst": 227,
+      "Avg": 154.8,
+      "Std Dev": 52.2
+    },
+    {
+      "Rank": 133,
+      "Player": "Matt Duchene",
+      "Pos.": "C",
+      "Team": "COL",
+      "Best": 104,
+      "Worst": 199,
+      "Avg": 145.6,
+      "Std Dev": 33.1
+    },
+    {
+      "Rank": 134,
+      "Player": "Tyler Johnson",
+      "Pos.": "C",
+      "Team": "TB",
+      "Best": 104,
+      "Worst": 154,
+      "Avg": 129.8,
+      "Std Dev": 19.7
+    },
+    {
+      "Rank": 135,
+      "Player": "Kyle Turris",
+      "Pos.": "C",
+      "Team": "OTT",
+      "Best": 104,
+      "Worst": 133,
+      "Avg": 118,
+      "Std Dev": 10.1
+    },
+    {
+      "Rank": 136,
+      "Player": "Cam Fowler",
+      "Pos.": "D",
+      "Team": "ANA",
+      "Best": 105,
+      "Worst": 143,
+      "Avg": 128.6,
+      "Std Dev": 13.7
+    },
+    {
+      "Rank": 137,
+      "Player": "Colton Parayko",
+      "Pos.": "D",
+      "Team": "STL",
+      "Best": 106,
+      "Worst": 131,
+      "Avg": 121,
+      "Std Dev": 10.4
+    },
+    {
+      "Rank": 138,
+      "Player": "Jake Gardiner",
+      "Pos.": "D",
+      "Team": "TOR",
+      "Best": 107,
+      "Worst": 209,
+      "Avg": 171.4,
+      "Std Dev": 36.3
+    },
+    {
+      "Rank": 139,
+      "Player": "Patrick Marleau",
+      "Pos.": "LW",
+      "Team": "TOR",
+      "Best": 108,
+      "Worst": 162,
+      "Avg": 137.6,
+      "Std Dev": 18.1
+    },
+    {
+      "Rank": 140,
+      "Player": "Craig Anderson",
+      "Pos.": "G",
+      "Team": "OTT",
+      "Best": 108,
+      "Worst": 145,
+      "Avg": 120.6,
+      "Std Dev": 14.2
+    },
+    {
+      "Rank": 141,
+      "Player": "Patric Hornqvist",
+      "Pos.": "RW",
+      "Team": "PIT",
+      "Best": 108,
+      "Worst": 136,
+      "Avg": 123.2,
+      "Std Dev": 8.9
+    },
+    {
+      "Rank": 142,
+      "Player": "Brian Elliott",
+      "Pos.": "G",
+      "Team": "PHI",
+      "Best": 110,
+      "Worst": 148,
+      "Avg": 125.8,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 143,
+      "Player": "Kyle Okposo",
+      "Pos.": "RW",
+      "Team": "BUF",
+      "Best": 113,
+      "Worst": 179,
+      "Avg": 139.8,
+      "Std Dev": 26.3
+    },
+    {
+      "Rank": 144,
+      "Player": "Jaroslav Halak",
+      "Pos.": "G",
+      "Team": "NYI",
+      "Best": 114,
+      "Worst": 263,
+      "Avg": 180,
+      "Std Dev": 53.5
+    },
+    {
+      "Rank": 145,
+      "Player": "Ondrej Palat",
+      "Pos.": "LW",
+      "Team": "TB",
+      "Best": 116,
+      "Worst": 164,
+      "Avg": 141.4,
+      "Std Dev": 16.3
+    },
+    {
+      "Rank": 146,
+      "Player": "Max Domi",
+      "Pos.": "C",
+      "Team": "ARI",
+      "Best": 117,
+      "Worst": 190,
+      "Avg": 149.4,
+      "Std Dev": 24.5
+    },
+    {
+      "Rank": 147,
+      "Player": "David Krejci",
+      "Pos.": "C",
+      "Team": "BOS",
+      "Best": 118,
+      "Worst": 186,
+      "Avg": 156.8,
+      "Std Dev": 23.4
+    },
+    {
+      "Rank": 148,
+      "Player": "Aaron Ekblad",
+      "Pos.": "D",
+      "Team": "FLA",
+      "Best": 119,
+      "Worst": 191,
+      "Avg": 142,
+      "Std Dev": 25.6
+    },
+    {
+      "Rank": 149,
+      "Player": "Alexander Steen",
+      "Pos.": "LW",
+      "Team": "STL",
+      "Best": 119,
+      "Worst": 183,
+      "Avg": 149.2,
+      "Std Dev": 27
+    },
+    {
+      "Rank": 150,
+      "Player": "Anders Lee",
+      "Pos.": "C",
+      "Team": "NYI",
+      "Best": 121,
+      "Worst": 283,
+      "Avg": 189.3,
+      "Std Dev": 68.5
+    },
+    {
+      "Rank": 151,
+      "Player": "Mikko Koivu",
+      "Pos.": "C",
+      "Team": "MIN",
+      "Best": 121,
+      "Worst": 212,
+      "Avg": 169.4,
+      "Std Dev": 30.8
+    },
+    {
+      "Rank": 152,
+      "Player": "Nino Niederreiter",
+      "Pos.": "RW",
+      "Team": "MIN",
+      "Best": 121,
+      "Worst": 145,
+      "Avg": 132.6,
+      "Std Dev": 10.1
+    },
+    {
+      "Rank": 153,
+      "Player": "Kyle Palmieri",
+      "Pos.": "RW",
+      "Team": "NJ",
+      "Best": 122,
+      "Worst": 168,
+      "Avg": 142.4,
+      "Std Dev": 15.4
+    },
+    {
+      "Rank": 154,
+      "Player": "Marcus Johansson",
+      "Pos.": "C",
+      "Team": "NJ",
+      "Best": 123,
+      "Worst": 171,
+      "Avg": 140.2,
+      "Std Dev": 16.2
+    },
+    {
+      "Rank": 155,
+      "Player": "Derek Stepan",
+      "Pos.": "C",
+      "Team": "ARI",
+      "Best": 125,
+      "Worst": 168,
+      "Avg": 142.2,
+      "Std Dev": 15.2
+    },
+    {
+      "Rank": 156,
+      "Player": "Conor Sheary",
+      "Pos.": "LW",
+      "Team": "PIT",
+      "Best": 126,
+      "Worst": 183,
+      "Avg": 149.8,
+      "Std Dev": 18.9
+    },
+    {
+      "Rank": 157,
+      "Player": "Vincent Trocheck",
+      "Pos.": "C",
+      "Team": "FLA",
+      "Best": 126,
+      "Worst": 180,
+      "Avg": 147.8,
+      "Std Dev": 20.5
+    },
+    {
+      "Rank": 158,
+      "Player": "Chris Kreider",
+      "Pos.": "LW",
+      "Team": "NYR",
+      "Best": 126,
+      "Worst": 150,
+      "Avg": 136.4,
+      "Std Dev": 8.2
+    },
+    {
+      "Rank": 159,
+      "Player": "Daniel Sedin",
+      "Pos.": "LW",
+      "Team": "VAN",
+      "Best": 129,
+      "Worst": 209,
+      "Avg": 165.8,
+      "Std Dev": 26.1
+    },
+    {
+      "Rank": 160,
+      "Player": "Sam Reinhart",
+      "Pos.": "C",
+      "Team": "BUF",
+      "Best": 132,
+      "Worst": 158,
+      "Avg": 144.8,
+      "Std Dev": 9.2
+    },
+    {
+      "Rank": 161,
+      "Player": "Matthew Tkachuk",
+      "Pos.": "LW",
+      "Team": "CGY",
+      "Best": 133,
+      "Worst": 168,
+      "Avg": 148.4,
+      "Std Dev": 14.1
+    },
+    {
+      "Rank": 162,
+      "Player": "Robin Lehner",
+      "Pos.": "G",
+      "Team": "BUF",
+      "Best": 133,
+      "Worst": 159,
+      "Avg": 141.2,
+      "Std Dev": 9.2
+    },
+    {
+      "Rank": 163,
+      "Player": "Nick Schmaltz",
+      "Pos.": "C",
+      "Team": "CHI",
+      "Best": 134,
+      "Worst": 264,
+      "Avg": 201,
+      "Std Dev": 49.1
+    },
+    {
+      "Rank": 164,
+      "Player": "Nico Hischier",
+      "Pos.": "C",
+      "Team": "NJD",
+      "Best": 134,
+      "Worst": 259,
+      "Avg": 201,
+      "Std Dev": 48.9
+    },
+    {
+      "Rank": 165,
+      "Player": "J.T. Miller",
+      "Pos.": "C",
+      "Team": "NYR",
+      "Best": 137,
+      "Worst": 239,
+      "Avg": 182.6,
+      "Std Dev": 35.2
+    },
+    {
+      "Rank": 166,
+      "Player": "Vadim Shipachyov",
+      "Pos.": "C",
+      "Team": "VGK",
+      "Best": 138,
+      "Worst": 165,
+      "Avg": 154.4,
+      "Std Dev": 9.4
+    },
+    {
+      "Rank": 167,
+      "Player": "Steve Mason",
+      "Pos.": "G",
+      "Team": "WPG",
+      "Best": 139,
+      "Worst": 300,
+      "Avg": 206.2,
+      "Std Dev": 54.3
+    },
+    {
+      "Rank": 168,
+      "Player": "Joe Thornton",
+      "Pos.": "C",
+      "Team": "SJ",
+      "Best": 139,
+      "Worst": 177,
+      "Avg": 157.4,
+      "Std Dev": 14.7
+    },
+    {
+      "Rank": 169,
+      "Player": "Keith Yandle",
+      "Pos.": "D",
+      "Team": "FLA",
+      "Best": 139,
+      "Worst": 164,
+      "Avg": 150.8,
+      "Std Dev": 9.8
+    },
+    {
+      "Rank": 170,
+      "Player": "James Reimer",
+      "Pos.": "G",
+      "Team": "FLA",
+      "Best": 141,
+      "Worst": 294,
+      "Avg": 210.6,
+      "Std Dev": 54.7
+    },
+    {
+      "Rank": 171,
+      "Player": "Ryan Ellis",
+      "Pos.": "D",
+      "Team": "NSH",
+      "Best": 142,
+      "Worst": 168,
+      "Avg": 155,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 172,
+      "Player": "Matt Niskanen",
+      "Pos.": "D",
+      "Team": "WSH",
+      "Best": 143,
+      "Worst": 208,
+      "Avg": 180.6,
+      "Std Dev": 21.7
+    },
+    {
+      "Rank": 173,
+      "Player": "Gabriel Landeskog",
+      "Pos.": "LW",
+      "Team": "COL",
+      "Best": 144,
+      "Worst": 265,
+      "Avg": 189.2,
+      "Std Dev": 43.6
+    },
+    {
+      "Rank": 174,
+      "Player": "Nick Leddy",
+      "Pos.": "D",
+      "Team": "NYI",
+      "Best": 144,
+      "Worst": 225,
+      "Avg": 179.6,
+      "Std Dev": 26
+    },
+    {
+      "Rank": 175,
+      "Player": "Bryan Little",
+      "Pos.": "C",
+      "Team": "WPG",
+      "Best": 145,
+      "Worst": 164,
+      "Avg": 154,
+      "Std Dev": 6.4
+    },
+    {
+      "Rank": 176,
+      "Player": "Tyson Barrie",
+      "Pos.": "D",
+      "Team": "COL",
+      "Best": 147,
+      "Worst": 226,
+      "Avg": 184.8,
+      "Std Dev": 25.1
+    },
+    {
+      "Rank": 177,
+      "Player": "Brayden Point",
+      "Pos.": "C",
+      "Team": "TB",
+      "Best": 149,
+      "Worst": 267,
+      "Avg": 206,
+      "Std Dev": 41.8
+    },
+    {
+      "Rank": 178,
+      "Player": "Tanner Pearson",
+      "Pos.": "C",
+      "Team": "LA",
+      "Best": 150,
+      "Worst": 199,
+      "Avg": 174.3,
+      "Std Dev": 20
+    },
+    {
+      "Rank": 179,
+      "Player": "Boone Jenner",
+      "Pos.": "C",
+      "Team": "CBJ",
+      "Best": 151,
+      "Worst": 234,
+      "Avg": 201.6,
+      "Std Dev": 30.5
+    },
+    {
+      "Rank": 180,
+      "Player": "Jacob Trouba",
+      "Pos.": "D",
+      "Team": "WPG",
+      "Best": 151,
+      "Worst": 224,
+      "Avg": 177.6,
+      "Std Dev": 26.1
+    },
+    {
+      "Rank": 181,
+      "Player": "Brendan Gallagher",
+      "Pos.": "RW",
+      "Team": "MTL",
+      "Best": 151,
+      "Worst": 196,
+      "Avg": 172.8,
+      "Std Dev": 17.2
+    },
+    {
+      "Rank": 182,
+      "Player": "David Backes",
+      "Pos.": "C",
+      "Team": "BOS",
+      "Best": 152,
+      "Worst": 276,
+      "Avg": 212.2,
+      "Std Dev": 42.8
+    },
+    {
+      "Rank": 183,
+      "Player": "Tomas Hertl",
+      "Pos.": "C",
+      "Team": "SJ",
+      "Best": 152,
+      "Worst": 262,
+      "Avg": 199,
+      "Std Dev": 38.2
+    },
+    {
+      "Rank": 184,
+      "Player": "Antti Raanta",
+      "Pos.": "G",
+      "Team": "ARI",
+      "Best": 152,
+      "Worst": 251,
+      "Avg": 200.6,
+      "Std Dev": 37.7
+    },
+    {
+      "Rank": 185,
+      "Player": "Sean Couturier",
+      "Pos.": "C",
+      "Team": "PHI",
+      "Best": 153,
+      "Worst": 278,
+      "Avg": 235.3,
+      "Std Dev": 48.7
+    },
+    {
+      "Rank": 186,
+      "Player": "Dylan Larkin",
+      "Pos.": "C",
+      "Team": "DET",
+      "Best": 153,
+      "Worst": 213,
+      "Avg": 187.6,
+      "Std Dev": 21.6
+    },
+    {
+      "Rank": 187,
+      "Player": "Richard Panik",
+      "Pos.": "RW",
+      "Team": "CHI",
+      "Best": 155,
+      "Worst": 278,
+      "Avg": 216,
+      "Std Dev": 39
+    },
+    {
+      "Rank": 188,
+      "Player": "Marc-Andre Fleury",
+      "Pos.": "G",
+      "Team": "VGK",
+      "Best": 155,
+      "Worst": 191,
+      "Avg": 170.6,
+      "Std Dev": 15.2
+    },
+    {
+      "Rank": 189,
+      "Player": "Patrick Eaves",
+      "Pos.": "RW",
+      "Team": "ANA",
+      "Best": 156,
+      "Worst": 254,
+      "Avg": 204.6,
+      "Std Dev": 35.8
+    },
+    {
+      "Rank": 190,
+      "Player": "Anthony Mantha",
+      "Pos.": "RW",
+      "Team": "DET",
+      "Best": 156,
+      "Worst": 214,
+      "Avg": 170.8,
+      "Std Dev": 21.8
+    },
+    {
+      "Rank": 191,
+      "Player": "Gustav Nyquist",
+      "Pos.": "RW",
+      "Team": "DET",
+      "Best": 157,
+      "Worst": 240,
+      "Avg": 201.6,
+      "Std Dev": 29.1
+    },
+    {
+      "Rank": 192,
+      "Player": "Henrik Sedin",
+      "Pos.": "C",
+      "Team": "VAN",
+      "Best": 157,
+      "Worst": 239,
+      "Avg": 192.4,
+      "Std Dev": 28.6
+    },
+    {
+      "Rank": 193,
+      "Player": "Rick Nash",
+      "Pos.": "LW",
+      "Team": "NYR",
+      "Best": 158,
+      "Worst": 187,
+      "Avg": 167.8,
+      "Std Dev": 10.1
+    },
+    {
+      "Rank": 194,
+      "Player": "Charlie Coyle",
+      "Pos.": "RW",
+      "Team": "MIN",
+      "Best": 159,
+      "Worst": 244,
+      "Avg": 195,
+      "Std Dev": 27.8
+    },
+    {
+      "Rank": 195,
+      "Player": "Mike Cammalleri",
+      "Pos.": "C",
+      "Team": "LA",
+      "Best": 160,
+      "Worst": 217,
+      "Avg": 190,
+      "Std Dev": 20.2
+    },
+    {
+      "Rank": 196,
+      "Player": "Jason Zucker",
+      "Pos.": "LW",
+      "Team": "MIN",
+      "Best": 161,
+      "Worst": 252,
+      "Avg": 196.6,
+      "Std Dev": 42.1
+    },
+    {
+      "Rank": 197,
+      "Player": "Charlie McAvoy",
+      "Pos.": "D",
+      "Team": "BOS",
+      "Best": 163,
+      "Worst": 262,
+      "Avg": 204.4,
+      "Std Dev": 35.3
+    },
+    {
+      "Rank": 198,
+      "Player": "Bobby Ryan",
+      "Pos.": "RW",
+      "Team": "OTT",
+      "Best": 163,
+      "Worst": 229,
+      "Avg": 192.4,
+      "Std Dev": 25.5
+    },
+    {
+      "Rank": 199,
+      "Player": "Loui Eriksson",
+      "Pos.": "LW",
+      "Team": "VAN",
+      "Best": 165,
+      "Worst": 253,
+      "Avg": 219.3,
+      "Std Dev": 33.3
+    },
+    {
+      "Rank": 200,
+      "Player": "Mathieu Perreault",
+      "Pos.": "C",
+      "Team": "WPG",
+      "Best": 166,
+      "Worst": 279,
+      "Avg": 228.3,
+      "Std Dev": 46.3
+    },
+    {
+      "Rank": 201,
+      "Player": "Craig Smith",
+      "Pos.": "C",
+      "Team": "NSH",
+      "Best": 166,
+      "Worst": 272,
+      "Avg": 222.3,
+      "Std Dev": 38.5
+    },
+    {
+      "Rank": 202,
+      "Player": "Mikael Backlund",
+      "Pos.": "C",
+      "Team": "CGY",
+      "Best": 166,
+      "Worst": 254,
+      "Avg": 206,
+      "Std Dev": 28.3
+    },
+    {
+      "Rank": 203,
+      "Player": "Brandon Dubinsky",
+      "Pos.": "C",
+      "Team": "CBJ",
+      "Best": 166,
+      "Worst": 224,
+      "Avg": 198.5,
+      "Std Dev": 24
+    },
+    {
+      "Rank": 204,
+      "Player": "Teuvo Teravainen",
+      "Pos.": "C",
+      "Team": "CAR",
+      "Best": 166,
+      "Worst": 210,
+      "Avg": 192.4,
+      "Std Dev": 17
+    },
+    {
+      "Rank": 205,
+      "Player": "Brent Seabrook",
+      "Pos.": "D",
+      "Team": "CHI",
+      "Best": 167,
+      "Worst": 215,
+      "Avg": 186.4,
+      "Std Dev": 21.4
+    },
+    {
+      "Rank": 206,
+      "Player": "Paul Stastny",
+      "Pos.": "C",
+      "Team": "STL",
+      "Best": 169,
+      "Worst": 278,
+      "Avg": 231,
+      "Std Dev": 35.5
+    },
+    {
+      "Rank": 207,
+      "Player": "Victor Rask",
+      "Pos.": "C",
+      "Team": "CAR",
+      "Best": 170,
+      "Worst": 228,
+      "Avg": 197.5,
+      "Std Dev": 20.8
+    },
+    {
+      "Rank": 208,
+      "Player": "Jakub Vrana",
+      "Pos.": "LW",
+      "Team": "WSH",
+      "Best": 171,
+      "Worst": 298,
+      "Avg": 240,
+      "Std Dev": 45.3
+    },
+    {
+      "Rank": 209,
+      "Player": "Clayton Keller",
+      "Pos.": "C",
+      "Team": "ARI",
+      "Best": 171,
+      "Worst": 285,
+      "Avg": 233,
+      "Std Dev": 40.2
+    },
+    {
+      "Rank": 210,
+      "Player": "Roberto Luongo",
+      "Pos.": "G",
+      "Team": "FLA",
+      "Best": 171,
+      "Worst": 204,
+      "Avg": 188.2,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 211,
+      "Player": "Josh Ho-Sang",
+      "Pos.": "RW",
+      "Team": "NYI",
+      "Best": 172,
+      "Worst": 286,
+      "Avg": 210.2,
+      "Std Dev": 40.5
+    },
+    {
+      "Rank": 212,
+      "Player": "Jake Muzzin",
+      "Pos.": "D",
+      "Team": "LA",
+      "Best": 172,
+      "Worst": 234,
+      "Avg": 202.8,
+      "Std Dev": 23.6
+    },
+    {
+      "Rank": 213,
+      "Player": "Johnny Boychuk",
+      "Pos.": "D",
+      "Team": "NYI",
+      "Best": 173,
+      "Worst": 333,
+      "Avg": 238,
+      "Std Dev": 62.2
+    },
+    {
+      "Rank": 214,
+      "Player": "Tomas Tatar",
+      "Pos.": "LW",
+      "Team": "DET",
+      "Best": 173,
+      "Worst": 251,
+      "Avg": 202.6,
+      "Std Dev": 28.4
+    },
+    {
+      "Rank": 215,
+      "Player": "Brock Boeser",
+      "Pos.": "RW",
+      "Team": "VAN",
+      "Best": 174,
+      "Worst": 293,
+      "Avg": 253,
+      "Std Dev": 47.5
+    },
+    {
+      "Rank": 216,
+      "Player": "Thomas Greiss",
+      "Pos.": "G",
+      "Team": "NYI",
+      "Best": 175,
+      "Worst": 245,
+      "Avg": 208.4,
+      "Std Dev": 27.3
+    },
+    {
+      "Rank": 217,
+      "Player": "Derick Brassard",
+      "Pos.": "C",
+      "Team": "OTT",
+      "Best": 176,
+      "Worst": 261,
+      "Avg": 214.8,
+      "Std Dev": 37.4
+    },
+    {
+      "Rank": 218,
+      "Player": "Alex DeBrincat",
+      "Pos.": "C",
+      "Team": "CHI",
+      "Best": 176,
+      "Worst": 252,
+      "Avg": 219.8,
+      "Std Dev": 27.7
+    },
+    {
+      "Rank": 219,
+      "Player": "Elias Lindholm",
+      "Pos.": "C",
+      "Team": "CAR",
+      "Best": 176,
+      "Worst": 229,
+      "Avg": 201.8,
+      "Std Dev": 21.5
+    },
+    {
+      "Rank": 220,
+      "Player": "Andrew Ladd",
+      "Pos.": "LW",
+      "Team": "NYI",
+      "Best": 176,
+      "Worst": 219,
+      "Avg": 197.3,
+      "Std Dev": 20.3
+    },
+    {
+      "Rank": 221,
+      "Player": "Jared Spurgeon",
+      "Pos.": "D",
+      "Team": "MIN",
+      "Best": 177,
+      "Worst": 290,
+      "Avg": 224,
+      "Std Dev": 38.9
+    },
+    {
+      "Rank": 222,
+      "Player": "Jussi Jokinen",
+      "Pos.": "LW",
+      "Team": "EDM",
+      "Best": 178,
+      "Worst": 283,
+      "Avg": 231.3,
+      "Std Dev": 43.1
+    },
+    {
+      "Rank": 223,
+      "Player": "Robby Fabbri",
+      "Pos.": "C",
+      "Team": "STL",
+      "Best": 178,
+      "Worst": 183,
+      "Avg": 180.5,
+      "Std Dev": 2.5
+    },
+    {
+      "Rank": 224,
+      "Player": "Juuse Saros",
+      "Pos.": "G",
+      "Team": "NSH",
+      "Best": 180,
+      "Worst": 268,
+      "Avg": 220,
+      "Std Dev": 31.4
+    },
+    {
+      "Rank": 225,
+      "Player": "Jesse Puljujarvi",
+      "Pos.": "RW",
+      "Team": "FA",
+      "Best": 181,
+      "Worst": 281,
+      "Avg": 222.2,
+      "Std Dev": 37
+    },
+    {
+      "Rank": 226,
+      "Player": "Justin Williams",
+      "Pos.": "RW",
+      "Team": "CAR",
+      "Best": 181,
+      "Worst": 242,
+      "Avg": 215.8,
+      "Std Dev": 21.7
+    },
+    {
+      "Rank": 227,
+      "Player": "Jordan Staal",
+      "Pos.": "C",
+      "Team": "CAR",
+      "Best": 182,
+      "Worst": 255,
+      "Avg": 220.3,
+      "Std Dev": 27
+    },
+    {
+      "Rank": 228,
+      "Player": "Nolan Patrick",
+      "Pos.": "C",
+      "Team": "PHI",
+      "Best": 182,
+      "Worst": 246,
+      "Avg": 215.2,
+      "Std Dev": 24.6
+    },
+    {
+      "Rank": 229,
+      "Player": "Marc-Edouard Vlasic",
+      "Pos.": "D",
+      "Team": "SJ",
+      "Best": 184,
+      "Worst": 256,
+      "Avg": 217,
+      "Std Dev": 24.9
+    },
+    {
+      "Rank": 230,
+      "Player": "Jaccob Slavin",
+      "Pos.": "D",
+      "Team": "CAR",
+      "Best": 185,
+      "Worst": 281,
+      "Avg": 229.6,
+      "Std Dev": 33.6
+    },
+    {
+      "Rank": 231,
+      "Player": "Adam Henrique",
+      "Pos.": "C",
+      "Team": "NJ",
+      "Best": 187,
+      "Worst": 207,
+      "Avg": 195.3,
+      "Std Dev": 7.4
+    },
+    {
+      "Rank": 232,
+      "Player": "Dylan Strome",
+      "Pos.": "C",
+      "Team": "ARI",
+      "Best": 189,
+      "Worst": 292,
+      "Avg": 236,
+      "Std Dev": 33.5
+    },
+    {
+      "Rank": 233,
+      "Player": "Jimmy Howard",
+      "Pos.": "G",
+      "Team": "DET",
+      "Best": 189,
+      "Worst": 261,
+      "Avg": 220,
+      "Std Dev": 26.2
+    },
+    {
+      "Rank": 234,
+      "Player": "T.J. Brodie",
+      "Pos.": "D",
+      "Team": "CGY",
+      "Best": 189,
+      "Worst": 259,
+      "Avg": 225.5,
+      "Std Dev": 25.6
+    },
+    {
+      "Rank": 235,
+      "Player": "Ryan Nugent-Hopkins",
+      "Pos.": "C",
+      "Team": "EDM",
+      "Best": 189,
+      "Worst": 248,
+      "Avg": 219.8,
+      "Std Dev": 21.1
+    },
+    {
+      "Rank": 236,
+      "Player": "Ivan Provorov",
+      "Pos.": "D",
+      "Team": "PHI",
+      "Best": 190,
+      "Worst": 250,
+      "Avg": 213.4,
+      "Std Dev": 22.1
+    },
+    {
+      "Rank": 237,
+      "Player": "Shea Theodore",
+      "Pos.": "D",
+      "Team": "VGK",
+      "Best": 190,
+      "Worst": 247,
+      "Avg": 208.6,
+      "Std Dev": 19.9
+    },
+    {
+      "Rank": 238,
+      "Player": "Artem Anisimov",
+      "Pos.": "C",
+      "Team": "CHI",
+      "Best": 191,
+      "Worst": 275,
+      "Avg": 218.8,
+      "Std Dev": 29.6
+    },
+    {
+      "Rank": 239,
+      "Player": "Jason Pominville",
+      "Pos.": "RW",
+      "Team": "BUF",
+      "Best": 193,
+      "Worst": 289,
+      "Avg": 231.8,
+      "Std Dev": 35.4
+    },
+    {
+      "Rank": 240,
+      "Player": "Patrick Sharp",
+      "Pos.": "LW",
+      "Team": "CHI",
+      "Best": 193,
+      "Worst": 277,
+      "Avg": 218.8,
+      "Std Dev": 29.9
+    },
+    {
+      "Rank": 241,
+      "Player": "Petr Mrazek",
+      "Pos.": "G",
+      "Team": "DET",
+      "Best": 193,
+      "Worst": 248,
+      "Avg": 224,
+      "Std Dev": 19.4
+    },
+    {
+      "Rank": 242,
+      "Player": "Reilly Smith",
+      "Pos.": "RW",
+      "Team": "VGK",
+      "Best": 194,
+      "Worst": 268,
+      "Avg": 235.5,
+      "Std Dev": 30.1
+    },
+    {
+      "Rank": 243,
+      "Player": "Nikita Zaitsev",
+      "Pos.": "D",
+      "Team": "TOR",
+      "Best": 194,
+      "Worst": 223,
+      "Avg": 208.8,
+      "Std Dev": 12.5
+    },
+    {
+      "Rank": 244,
+      "Player": "Chris Kunitz",
+      "Pos.": "LW",
+      "Team": "TB",
+      "Best": 195,
+      "Worst": 295,
+      "Avg": 248.3,
+      "Std Dev": 43.9
+    },
+    {
+      "Rank": 245,
+      "Player": "Scott Hartnell",
+      "Pos.": "LW",
+      "Team": "NSH",
+      "Best": 195,
+      "Worst": 254,
+      "Avg": 236.3,
+      "Std Dev": 24.2
+    },
+    {
+      "Rank": 246,
+      "Player": "Connor Hellebuyck",
+      "Pos.": "G",
+      "Team": "WPG",
+      "Best": 195,
+      "Worst": 250,
+      "Avg": 223.4,
+      "Std Dev": 19.5
+    },
+    {
+      "Rank": 247,
+      "Player": "Mathew Dumba",
+      "Pos.": "D",
+      "Team": "MIN",
+      "Best": 196,
+      "Worst": 211,
+      "Avg": 200,
+      "Std Dev": 5.5
+    },
+    {
+      "Rank": 248,
+      "Player": "Kevin Fiala",
+      "Pos.": "LW",
+      "Team": "NSH",
+      "Best": 199,
+      "Worst": 298,
+      "Avg": 243.3,
+      "Std Dev": 36.8
+    },
+    {
+      "Rank": 249,
+      "Player": "Erik Johnson",
+      "Pos.": "D",
+      "Team": "COL",
+      "Best": 200,
+      "Worst": 317,
+      "Avg": 253.3,
+      "Std Dev": 48.3
+    },
+    {
+      "Rank": 250,
+      "Player": "Brady Skjei",
+      "Pos.": "D",
+      "Team": "NYR",
+      "Best": 200,
+      "Worst": 295,
+      "Avg": 261.3,
+      "Std Dev": 38.5
+    },
+    {
+      "Rank": 251,
+      "Player": "Kevin Hayes",
+      "Pos.": "RW",
+      "Team": "NYR",
+      "Best": 201,
+      "Worst": 265,
+      "Avg": 238.5,
+      "Std Dev": 25.9
+    },
+    {
+      "Rank": 252,
+      "Player": "Alec Martinez",
+      "Pos.": "D",
+      "Team": "LA",
+      "Best": 201,
+      "Worst": 241,
+      "Avg": 227.4,
+      "Std Dev": 13.9
+    },
+    {
+      "Rank": 253,
+      "Player": "Frans Nielsen",
+      "Pos.": "C",
+      "Team": "DET",
+      "Best": 203,
+      "Worst": 275,
+      "Avg": 243.5,
+      "Std Dev": 25.9
+    },
+    {
+      "Rank": 254,
+      "Player": "Morgan Rielly",
+      "Pos.": "D",
+      "Team": "TOR",
+      "Best": 203,
+      "Worst": 229,
+      "Avg": 221,
+      "Std Dev": 9.5
+    },
+    {
+      "Rank": 255,
+      "Player": "Jonathan Marchessault",
+      "Pos.": "C",
+      "Team": "VGK",
+      "Best": 204,
+      "Worst": 296,
+      "Avg": 255.3,
+      "Std Dev": 35.7
+    },
+    {
+      "Rank": 256,
+      "Player": "Radim Vrbata",
+      "Pos.": "RW",
+      "Team": "FLA",
+      "Best": 205,
+      "Worst": 259,
+      "Avg": 229.8,
+      "Std Dev": 20.8
+    },
+    {
+      "Rank": 257,
+      "Player": "Nick Bjugstad",
+      "Pos.": "C",
+      "Team": "FLA",
+      "Best": 206,
+      "Worst": 320,
+      "Avg": 262.3,
+      "Std Dev": 41.3
+    },
+    {
+      "Rank": 258,
+      "Player": "Dmitry Orlov",
+      "Pos.": "D",
+      "Team": "WSH",
+      "Best": 206,
+      "Worst": 267,
+      "Avg": 235.8,
+      "Std Dev": 23.4
+    },
+    {
+      "Rank": 259,
+      "Player": "Philipp Grubauer",
+      "Pos.": "G",
+      "Team": "WSH",
+      "Best": 207,
+      "Worst": 332,
+      "Avg": 252.7,
+      "Std Dev": 56.3
+    },
+    {
+      "Rank": 260,
+      "Player": "Jimmy Vesey",
+      "Pos.": "LW",
+      "Team": "NYR",
+      "Best": 207,
+      "Worst": 279,
+      "Avg": 237.3,
+      "Std Dev": 30.5
+    },
+    {
+      "Rank": 261,
+      "Player": "Sam Bennett",
+      "Pos.": "C",
+      "Team": "CGY",
+      "Best": 208,
+      "Worst": 247,
+      "Avg": 227,
+      "Std Dev": 15.9
+    },
+    {
+      "Rank": 262,
+      "Player": "Nick Bonino",
+      "Pos.": "C",
+      "Team": "NSH",
+      "Best": 209,
+      "Worst": 299,
+      "Avg": 254.3,
+      "Std Dev": 38.8
+    },
+    {
+      "Rank": 263,
+      "Player": "Mattias Ekholm",
+      "Pos.": "D",
+      "Team": "NSH",
+      "Best": 211,
+      "Worst": 273,
+      "Avg": 239.8,
+      "Std Dev": 26.6
+    },
+    {
+      "Rank": 264,
+      "Player": "Tyler Bozak",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 211,
+      "Worst": 227,
+      "Avg": 218.3,
+      "Std Dev": 6.6
+    },
+    {
+      "Rank": 265,
+      "Player": "Mikko Rantanen",
+      "Pos.": "RW",
+      "Team": "COL",
+      "Best": 212,
+      "Worst": 277,
+      "Avg": 251.2,
+      "Std Dev": 22.9
+    },
+    {
+      "Rank": 266,
+      "Player": "Semyon Varlamov",
+      "Pos.": "G",
+      "Team": "COL",
+      "Best": 213,
+      "Worst": 272,
+      "Avg": 238,
+      "Std Dev": 22.8
+    },
+    {
+      "Rank": 267,
+      "Player": "Aaron Dell",
+      "Pos.": "G",
+      "Team": "SJ",
+      "Best": 213,
+      "Worst": 235,
+      "Avg": 224,
+      "Std Dev": 11
+    },
+    {
+      "Rank": 268,
+      "Player": "Anthony Duclair",
+      "Pos.": "LW",
+      "Team": "ARI",
+      "Best": 214,
+      "Worst": 344,
+      "Avg": 283,
+      "Std Dev": 53.4
+    },
+    {
+      "Rank": 269,
+      "Player": "Mathew Barzal",
+      "Pos.": "C",
+      "Team": "NYI",
+      "Best": 215,
+      "Worst": 298,
+      "Avg": 253.8,
+      "Std Dev": 28
+    },
+    {
+      "Rank": 270,
+      "Player": "Phillip Danault",
+      "Pos.": "C",
+      "Team": "MTL",
+      "Best": 216,
+      "Worst": 329,
+      "Avg": 272.5,
+      "Std Dev": 56.5
+    },
+    {
+      "Rank": 271,
+      "Player": "Tyson Jost",
+      "Pos.": "C",
+      "Team": "COL",
+      "Best": 216,
+      "Worst": 266,
+      "Avg": 232.8,
+      "Std Dev": 17.9
+    },
+    {
+      "Rank": 272,
+      "Player": "Mike Green",
+      "Pos.": "D",
+      "Team": "DET",
+      "Best": 221,
+      "Worst": 298,
+      "Avg": 259,
+      "Std Dev": 32.3
+    },
+    {
+      "Rank": 273,
+      "Player": "David Savard",
+      "Pos.": "D",
+      "Team": "CBJ",
+      "Best": 222,
+      "Worst": 297,
+      "Avg": 270.3,
+      "Std Dev": 34.2
+    },
+    {
+      "Rank": 274,
+      "Player": "Kyle Connor",
+      "Pos.": "LW",
+      "Team": "WPG",
+      "Best": 222,
+      "Worst": 284,
+      "Avg": 251.3,
+      "Std Dev": 22.5
+    },
+    {
+      "Rank": 275,
+      "Player": "Nick Ritchie",
+      "Pos.": "LW",
+      "Team": "ANA",
+      "Best": 223,
+      "Worst": 299,
+      "Avg": 249.7,
+      "Std Dev": 34.9
+    },
+    {
+      "Rank": 276,
+      "Player": "David Perron",
+      "Pos.": "LW",
+      "Team": "VGK",
+      "Best": 224,
+      "Worst": 265,
+      "Avg": 244.5,
+      "Std Dev": 20.5
+    },
+    {
+      "Rank": 277,
+      "Player": "Antti Niemi",
+      "Pos.": "G",
+      "Team": "PIT",
+      "Best": 225,
+      "Worst": 280,
+      "Avg": 250,
+      "Std Dev": 22.7
+    },
+    {
+      "Rank": 278,
+      "Player": "Frank Vatrano",
+      "Pos.": "C",
+      "Team": "BOS",
+      "Best": 228,
+      "Worst": 287,
+      "Avg": 254.7,
+      "Std Dev": 24.4
+    },
+    {
+      "Rank": 279,
+      "Player": "Martin Hanzal",
+      "Pos.": "C",
+      "Team": "DAL",
+      "Best": 230,
+      "Worst": 267,
+      "Avg": 253.8,
+      "Std Dev": 14.9
+    },
+    {
+      "Rank": 280,
+      "Player": "Dion Phaneuf",
+      "Pos.": "D",
+      "Team": "OTT",
+      "Best": 230,
+      "Worst": 240,
+      "Avg": 235.8,
+      "Std Dev": 4.4
+    },
+    {
+      "Rank": 281,
+      "Player": "Sami Vatanen",
+      "Pos.": "D",
+      "Team": "ANA",
+      "Best": 233,
+      "Worst": 299,
+      "Avg": 253,
+      "Std Dev": 26.7
+    },
+    {
+      "Rank": 282,
+      "Player": "Tomas Plekanec",
+      "Pos.": "C",
+      "Team": "MTL",
+      "Best": 233,
+      "Worst": 295,
+      "Avg": 261.7,
+      "Std Dev": 25.5
+    },
+    {
+      "Rank": 283,
+      "Player": "Brock Nelson",
+      "Pos.": "C",
+      "Team": "NYI",
+      "Best": 234,
+      "Worst": 275,
+      "Avg": 256.8,
+      "Std Dev": 17.7
+    },
+    {
+      "Rank": 284,
+      "Player": "Alex Goligoski",
+      "Pos.": "D",
+      "Team": "ARI",
+      "Best": 234,
+      "Worst": 260,
+      "Avg": 245.5,
+      "Std Dev": 10.5
+    },
+    {
+      "Rank": 285,
+      "Player": "Jean-Gabriel Pageau",
+      "Pos.": "C",
+      "Team": "OTT",
+      "Best": 236,
+      "Worst": 323,
+      "Avg": 284.3,
+      "Std Dev": 36.2
+    },
+    {
+      "Rank": 286,
+      "Player": "Ryan Miller",
+      "Pos.": "G",
+      "Team": "ANA",
+      "Best": 236,
+      "Worst": 282,
+      "Avg": 257.3,
+      "Std Dev": 20.5
+    },
+    {
+      "Rank": 287,
+      "Player": "Anton Stralman",
+      "Pos.": "D",
+      "Team": "TB",
+      "Best": 239,
+      "Worst": 314,
+      "Avg": 265.3,
+      "Std Dev": 29.8
+    },
+    {
+      "Rank": 288,
+      "Player": "Josh Morrissey",
+      "Pos.": "D",
+      "Team": "WPG",
+      "Best": 239,
+      "Worst": 276,
+      "Avg": 257.5,
+      "Std Dev": 18.5
+    },
+    {
+      "Rank": 289,
+      "Player": "Ondrej Pavelec",
+      "Pos.": "G",
+      "Team": "NYR",
+      "Best": 240,
+      "Worst": 288,
+      "Avg": 262,
+      "Std Dev": 19.8
+    },
+    {
+      "Rank": 290,
+      "Player": "Zdeno Chara",
+      "Pos.": "D",
+      "Team": "BOS",
+      "Best": 240,
+      "Worst": 268,
+      "Avg": 251.6,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 291,
+      "Player": "Damon Severson",
+      "Pos.": "D",
+      "Team": "NJ",
+      "Best": 244,
+      "Worst": 281,
+      "Avg": 260.8,
+      "Std Dev": 13.5
+    },
+    {
+      "Rank": 292,
+      "Player": "Vladislav Namestnikov",
+      "Pos.": "C",
+      "Team": "TB",
+      "Best": 246,
+      "Worst": 326,
+      "Avg": 276.3,
+      "Std Dev": 35.4
+    },
+    {
+      "Rank": 293,
+      "Player": "Anton Forsberg",
+      "Pos.": "G",
+      "Team": "CHI",
+      "Best": 247,
+      "Worst": 287,
+      "Avg": 267,
+      "Std Dev": 20
+    },
+    {
+      "Rank": 294,
+      "Player": "Troy Brouwer",
+      "Pos.": "RW",
+      "Team": "CGY",
+      "Best": 248,
+      "Worst": 345,
+      "Avg": 296.3,
+      "Std Dev": 39.6
+    },
+    {
+      "Rank": 295,
+      "Player": "Nick Holden",
+      "Pos.": "D",
+      "Team": "NYR",
+      "Best": 250,
+      "Worst": 289,
+      "Avg": 269.5,
+      "Std Dev": 19.5
+    },
+    {
+      "Rank": 296,
+      "Player": "Trevor Daley",
+      "Pos.": "D",
+      "Team": "DET",
+      "Best": 254,
+      "Worst": 270,
+      "Avg": 261,
+      "Std Dev": 6.7
+    },
+    {
+      "Rank": 297,
+      "Player": "Alexander Edler",
+      "Pos.": "D",
+      "Team": "VAN",
+      "Best": 255,
+      "Worst": 280,
+      "Avg": 270.7,
+      "Std Dev": 11.1
+    },
+    {
+      "Rank": 298,
+      "Player": "Michael Matheson",
+      "Pos.": "D",
+      "Team": "FLA",
+      "Best": 256,
+      "Worst": 269,
+      "Avg": 262.5,
+      "Std Dev": 6.5
+    },
+    {
+      "Rank": 299,
+      "Player": "Michal Neuvirth",
+      "Pos.": "G",
+      "Team": "PHI",
+      "Best": 257,
+      "Worst": 308,
+      "Avg": 283.3,
+      "Std Dev": 20.9
+    },
+    {
+      "Rank": 300,
+      "Player": "Peter Budaj",
+      "Pos.": "G",
+      "Team": "TB",
+      "Best": 260,
+      "Worst": 286,
+      "Avg": 273,
+      "Std Dev": 13
+    },
+    {
+      "Rank": 301,
+      "Player": "Andrew Shaw",
+      "Pos.": "C",
+      "Team": "MTL",
+      "Best": 264,
+      "Worst": 321,
+      "Avg": 292.5,
+      "Std Dev": 28.5
+    },
+    {
+      "Rank": 302,
+      "Player": "Jeff Petry",
+      "Pos.": "D",
+      "Team": "MTL",
+      "Best": 264,
+      "Worst": 276,
+      "Avg": 271.7,
+      "Std Dev": 5.4
+    },
+    {
+      "Rank": 303,
+      "Player": "Radko Gudas",
+      "Pos.": "D",
+      "Team": "PHI",
+      "Best": 266,
+      "Worst": 269,
+      "Avg": 267.5,
+      "Std Dev": 1.5
+    },
+    {
+      "Rank": 304,
+      "Player": "Justin Abdelkader",
+      "Pos.": "LW",
+      "Team": "DET",
+      "Best": 269,
+      "Worst": 281,
+      "Avg": 275,
+      "Std Dev": 6
+    },
+    {
+      "Rank": 305,
+      "Player": "Sven Baertschi",
+      "Pos.": "LW",
+      "Team": "VAN",
+      "Best": 269,
+      "Worst": 271,
+      "Avg": 270,
+      "Std Dev": 1
+    },
+    {
+      "Rank": 306,
+      "Player": "Joonas Donskoi",
+      "Pos.": "RW",
+      "Team": "SJ",
+      "Best": 270,
+      "Worst": 342,
+      "Avg": 299,
+      "Std Dev": 31
+    },
+    {
+      "Rank": 307,
+      "Player": "Lee Stempniak",
+      "Pos.": "RW",
+      "Team": "CAR",
+      "Best": 270,
+      "Worst": 288,
+      "Avg": 279,
+      "Std Dev": 9
+    },
+    {
+      "Rank": 308,
+      "Player": "Carl Hagelin",
+      "Pos.": "LW",
+      "Team": "PIT",
+      "Best": 271,
+      "Worst": 338,
+      "Avg": 302,
+      "Std Dev": 27.6
+    },
+    {
+      "Rank": 309,
+      "Player": "Hampus Lindholm",
+      "Pos.": "D",
+      "Team": "ANA",
+      "Best": 272,
+      "Worst": 294,
+      "Avg": 283.3,
+      "Std Dev": 7.8
+    },
+    {
+      "Rank": 310,
+      "Player": "Dustin Brown",
+      "Pos.": "RW",
+      "Team": "LA",
+      "Best": 273,
+      "Worst": 336,
+      "Avg": 304.5,
+      "Std Dev": 31.5
+    },
+    {
+      "Rank": 311,
+      "Player": "Julius Honka",
+      "Pos.": "D",
+      "Team": "DAL",
+      "Best": 274,
+      "Worst": 285,
+      "Avg": 279.5,
+      "Std Dev": 5.5
+    },
+    {
+      "Rank": 312,
+      "Player": "Esa Lindell",
+      "Pos.": "D",
+      "Team": "DAL",
+      "Best": 274,
+      "Worst": 284,
+      "Avg": 277.3,
+      "Std Dev": 4.7
+    },
+    {
+      "Rank": 313,
+      "Player": "Ryan Spooner",
+      "Pos.": "C",
+      "Team": "BOS",
+      "Best": 277,
+      "Worst": 284,
+      "Avg": 280,
+      "Std Dev": 2.9
+    },
+    {
+      "Rank": 314,
+      "Player": "Kari Lehtonen",
+      "Pos.": "G",
+      "Team": "DAL",
+      "Best": 278,
+      "Worst": 291,
+      "Avg": 285.3,
+      "Std Dev": 5.4
+    },
+    {
+      "Rank": 315,
+      "Player": "Carl Soderberg",
+      "Pos.": "C",
+      "Team": "COL",
+      "Best": 279,
+      "Worst": 306,
+      "Avg": 292.5,
+      "Std Dev": 13.5
+    },
+    {
+      "Rank": 316,
+      "Player": "Valtteri Filppula",
+      "Pos.": "C",
+      "Team": "PHI",
+      "Best": 280,
+      "Worst": 330,
+      "Avg": 305,
+      "Std Dev": 25
+    },
+    {
+      "Rank": 317,
+      "Player": "Adam Larsson",
+      "Pos.": "D",
+      "Team": "EDM",
+      "Best": 282,
+      "Worst": 303,
+      "Avg": 291.7,
+      "Std Dev": 8.7
+    },
+    {
+      "Rank": 318,
+      "Player": "Michael Stone",
+      "Pos.": "D",
+      "Team": "CGY",
+      "Best": 286,
+      "Worst": 311,
+      "Avg": 298.5,
+      "Std Dev": 12.5
+    },
+    {
+      "Rank": 319,
+      "Player": "Leo Komarov",
+      "Pos.": "C",
+      "Team": "TOR",
+      "Best": 289,
+      "Worst": 297,
+      "Avg": 294.3,
+      "Std Dev": 3.3
+    },
+    {
+      "Rank": 320,
+      "Player": "Dmitry Kulikov",
+      "Pos.": "D",
+      "Team": "WPG",
+      "Best": 290,
+      "Worst": 350,
+      "Avg": 320,
+      "Std Dev": 30
+    },
+    {
+      "Rank": 321,
+      "Player": "Nail Yakupov",
+      "Pos.": "RW",
+      "Team": "COL",
+      "Best": 291,
+      "Worst": 340,
+      "Avg": 315.5,
+      "Std Dev": 24.5
+    },
+    {
+      "Rank": 322,
+      "Player": "Thomas Vanek",
+      "Pos.": "LW",
+      "Team": "VAN",
+      "Best": 291,
+      "Worst": 305,
+      "Avg": 298,
+      "Std Dev": 7
+    },
+    {
+      "Rank": 323,
+      "Player": "Alex Killorn",
+      "Pos.": "C",
+      "Team": "TB",
+      "Best": 293,
+      "Worst": 295,
+      "Avg": 294,
+      "Std Dev": 1
+    },
+    {
+      "Rank": 324,
+      "Player": "Andrew Cogliano",
+      "Pos.": "C",
+      "Team": "ANA",
+      "Best": 296,
+      "Worst": 324,
+      "Avg": 310,
+      "Std Dev": 14
+    },
+    {
+      "Rank": null,
+      "Player": "",
+      "Pos.": "",
+      "Team": "",
+      "Best": null,
+      "Worst": null,
+      "Avg": null,
+      "Std Dev": null
+    },
+    {
+      "Rank": null,
+      "Player": "",
+      "Pos.": "",
+      "Team": "",
+      "Best": null,
+      "Worst": null,
+      "Avg": null,
+      "Std Dev": null
+    }
+  ]
+}
