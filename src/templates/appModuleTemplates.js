@@ -1,6 +1,66 @@
 angular.module('apf.appModule').run(['$templateCache', function($templateCache) {
   'use strict';
 
+  $templateCache.put('src/app/controllers/heading.html',
+    "<span class=\"heading-class\">{{notificationGroup.heading}}</span> <span class=\"panel-counter sub-heading\">{{notificationGroup.unreadCount}} New {{notificationGroup.heading}}</span>"
+  );
+
+
+  $templateCache.put('src/app/controllers/notification-body.html',
+    "<div ng-if=\"!customScope.drawerExpanded\" ng-click=\"customScope.markNotificationRead(notification, notificationGroup)\"><div class=\"dropdown pull-right dropdown-kebab-pf\"><button class=\"btn btn-link dropdown-toggle\" type=\"button\" ng-click=\"customScope.clearNotification(notification, notificationGroup)\"><span class=\"pficon pficon-close\"></span></button></div><span ng-if=\"notification.data.status\" class=\"pull-left {{customScope.getNotficationStatusIconClass(notification)}}\" ng-click=\"customScope.markRead(notification, notificationGroup)\"></span> <span class=\"drawer-pf-notification-message apf-notification-message\" ng-click=\"customScope.markRead(notification, notificationGroup)\" tooltip-popup-delay=\"500\" tooltip-placement=\"bottom\" tooltip=\"{{notification.data.message}}\">{{notification.data.message}}</span><div ng-if=\"!notification.data.inProgress\" class=\"drawer-pf-notification-info\" ng-click=\"customScope.markRead(notification, notificationGroup)\"><span class=\"date\">{{notification.timeStamp | date:'MM/dd/yyyy'}}</span> <span class=\"time\">{{notification.timeStamp | date:'h:mm:ss a'}}</span></div><div ng-if=\"notification.data.inProgress\" class=\"mini-progress clearfix\"><span class=\"time\">{{notification.timeStamp | date:'h:mm:ss a'}}</span><div class=\"mini-progress-area\"><div class=\"progress\"><span class=\"progress-bar progress-bar-info\" ng-style=\"{width: notification.data.percentComplete + '%'}\" tooltip=\"{{notification.data.percentComplete}}% Complete\"></span></div></div></div></div><div ng-if=\"customScope.drawerExpanded\" class=\"container-fluid expanded-notification\" ng-click=\"customScope.markNotificationRead(notification, notificationGroup)\"><div class=\"row\"><div ng-class=\"{'col-md-4': notificationGroup.notificationType == 'task'}\" class=\"col-sm-6\"><span ng-if=\"notification.data.status\" class=\"pull-left {{customScope.getNotficationStatusIconClass(notification)}}\" ng-click=\"customScope.markRead(notification, notificationGroup)\"></span> <span class=\"drawer-pf-notification-message apf-notification-message\" ng-click=\"customScope.markRead(notification, notificationGroup)\" tooltip-append-to-body=\"true\" tooltip-popup-delay=\"500\" tooltip-placement=\"bottom\" tooltip=\"{{notification.data.message}}\">{{notification.data.message}}</span></div><div class=\"col-md-4 col-sm-3\" ng-if=\"notificationGroup.notificationType == 'task'\"><div class=\"drawer-pf-notification-info expanded-info\" ng-click=\"customScope.markRead(notification, notificationGroup)\"><span class=\"info-title\">Started:</span> <span class=\"date\">{{notification.data.startTime | date:'MM/dd/yyyy'}}</span> <span class=\"time\">{{notification.data.startTime | date:'h:mm:ss a'}}</span></div><div ng-if=\"notification.data.inProgress\" class=\"progress\"><div class=\"progress-bar progress-bar-info\" ng-style=\"{width: notification.data.percentComplete + '%'}\" tooltip=\"{{notification.data.percentComplete}}% Complete\"></div></div></div><div class=\"col-md-4 col-sm-3\" ng-if=\"notificationGroup.notificationType == 'task'\"><div class=\"drawer-pf-notification-info\" ng-click=\"customScope.markRead(notification, notificationGroup)\"><span class=\"info-title\">Completed:</span> <span class=\"date\">{{notification.data.endTime | date:'MM/dd/yyyy'}}</span> <span class=\"time\">{{notification.data.endTime | date:'h:mm:ss a'}}</span></div></div><div class=\"col-sm-6\" ng-if=\"notificationGroup.notificationType == 'event'\"><div class=\"drawer-pf-notification-info\" ng-click=\"customScope.markRead(notification, notificationGroup)\"><span class=\"date\">{{notification.data.timeStamp | date:'MM/dd/yyyy'}}</span> <span class=\"time\">{{notification.data.timeStamp | date:'h:mm:ss a'}}</span></div></div><div class=\"pull-right dropdown-kebab-pf\"><button class=\"btn btn-link dropdown-toggle\" type=\"button\" ng-click=\"customScope.clearNotification(notification, notificationGroup)\"><span class=\"pficon pficon-close\"></span></button></div></div></div>"
+  );
+
+
+  $templateCache.put('src/app/controllers/notification-footer.html',
+    "<div class=\"drawer-pf-action\"><a class=\"btn btn-link btn-block\" role=\"button\" ng-class=\"{'disabled': !notificationGroup.notifications || notificationGroup.notifications.length === 0}\" ng-click=\"customScope.clearAllNotifications(notificationGroup)\"><span class=\"pficon pficon-close\"></span> <span>Clear All</span></a></div>"
+  );
+
+
+  $templateCache.put('src/app/controllers/subheading.html',
+    "<span class=\"subheading-class\">{{notificationGroup.unreadCount}} New</span>"
+  );
+
+
+  $templateCache.put('src/app/directives/card/heatmaps/heatmaps-card.html',
+    "<div pf-card=\"\" class=\"heatmap-card\" head-title=\"{{cardTitle}}\" hidetopborder=\"{{hideTopBorder}}\"><div class=\"row\"><div class=\"col-xs-12 col-sm-12 col-md-12 card-heatmap-body\"><div ng-repeat=\"heatmap in heatmaps track by $index\"><div class=\"{{columnSizingClass}} container-heatmap-card\"><span class=\"h3 heatmap-chart-title\" ng-if=\"heatmaps.length > 1\">{{heatmap.title}}</span><div id=\"{{heatmap.id}}\" class=\"heatmap-container\"><div pf-heatmap=\"\" data=\"heatmap.data\" parentid=\"{{heatmap.id}}\" height=\"heatmapChartHeight\" ng-if=\"heatmap.loadingDone\" show-legend=\"heatmaps.length === 1\" chart-data-available=\"chartDataAvailable\"></div></div><div ng-if=\"!heatmap.loadingDone\" class=\"spinner spinner-lg loading\"></div></div></div><div ng-if=\"heatmaps.length > 1\" class=\"col-xs-16 col-sm-8 col-md-8\"><div pf-heatmap-legend=\"\" legend=\"heatMapUsageLegendLabels\" ng-style=\"legendStyles\"></div></div></div></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/charts/data-list-usage-chart.html',
+    "<div id=\"radial-chart-container\" class=\"radial-chart\"><div pf-c3-chart=\"\" id=\"{{donutChartId}}\" config=\"config.donutConfig\"></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/charts/empty-trends-chart.html',
+    "<div class=\"blank-data empty-trends-chart\" style=\"height:{chartHeight}\"><span class=\"fa fa-info-circle empty-info\"><h1 class=\"info-text\">Data not available</h1></span></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/charts/empty-utilization-chart.html',
+    "<div class=\"blank-data utilization-chart-pf empty-utilization-chart\"><h3>{{title}}</h3><div class=\"current-values\"><h1 class=\"available-count\">N/A</h1></div><div class=\"utilization-chart-pf donut-chart-pf\"><span class=\"fa fa-info-circle empty-info\"><h1 class=\"info-text\">Data not available</h1></span></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/charts/inline-object-status.html',
+    "<div class=\"inline-card-status\" style=\"float: left;position: relative\"><div class=\"inline-card-status-type-icon container-font-color\"><span class=\"pficon {{objectType.iconClass}}\"></span></div><div class=\"count-title\"><span class=\"inline-card-status-count\">{{objectType.count}}</span> <span class=\"inline-card-status-type\">{{objectType.name}}</span></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/charts/progress/progress-chart.html',
+    "<div class=\"percentageUsedBarChartWrapper\"><div class=\"percentageUsedBarChart row\" ng-repeat=\"chart in charts\"><span class=\"percentageUsedBarTitle\">{{chart.title}}</span><div class=\"percentageUsedBar\"><div class=\"percentageUsedBarFilled\" ng-class=\"{'animate': animate}\" style=\"width:{{chart.percentageUsed}}%\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"{{chart.usedTooltip}}\"></div><div class=\"percentageUsedBarUnused\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"\" data-original-title=\"{{chart.availableTooltip}}\"></div></div><span class=\"percentageUsedBarSuffix\">{{chart.start}} of {{chart.end}} {{chart.units}}</span></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/lists/list-columns.html',
+    "<div class=\"apf-list-row\"><div ng-repeat=\"column in columns track by $index\"><div ng-switch=\"\" on=\"column.columnType\"><div class=\"apf-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-default=\"\"><span class=\"apf-label\">{{item[column.field]}}</span></div><div class=\"apf-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-when=\"titleLabel\"><span class=\"apf-label apf-title\">{{column.title}}</span> <span class=\"apf-label\">{{item[column.field]}}</span></div><div class=\"apf-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-when=\"objectLabel\"><span ng-if=\"item[column.iconField]\" class=\"pficon {{item[column.iconField]}} apf-icon-label\"></span> <img ng-if=\"item[column.iconImage]\" ng-src=\"{{item[column.iconImage]}}\" alt=\"\" class=\"apf-column-image\"> <span class=\"apf-label\">{{item[column.field]}}</span></div><div class=\"apf-column usage-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-when=\"usage\"><div><span class=\"apf-label apf-title\" style=\"width: {{column.titleWidth}}px\">{{column.usedLabel}}</span> <span class=\"apf-label apf-value\">{{item[column.usedDataField].used}}</span></div><div><span class=\"apf-label apf-title\" style=\"width: {{column.titleWidth}}px\">{{column.totalLabel}}</span> <span class=\"apf-label apf-value\">{{item[column.usedDataField].total}}</span></div></div><div class=\"apf-column label-value-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-when=\"labelValues\"><div ng-repeat=\"field in column.fields\" class=\"label-value-container\"><span class=\"apf-label apf-title\" style=\"width: {{column.titleWidth}}px\">{{field.label}}</span> <span class=\"apf-label apf-value\">{{item[field.value]}}</span></div></div><div class=\"apf-column apf-object-column\" ng-class=\"column.columnClass\" style=\"{{getColumnStyle(column, $index)}}\" ng-switch-when=\"objectCount\"><span class=\"apf-icon-label pficon\" ng-class=\"item[column.infoField].iconClass\"></span> <span class=\"apf-icon-label apf-value\">{{item[column.infoField].count}}</span> <span class=\"apf-label\">{{item[column.infoField].name}}</span></div></div></div></div>"
+  );
+
+
+  $templateCache.put('src/app/directives/lists/object-list.html',
+    "<div pf-list-view=\"\" ng-class=\"listClass\" id=\"{{listId}}\" config=\"listConfig\" items=\"items\"><div list-columns=\"\" columns=\"config.columns\" item=\"item\"></div></div>"
+  );
+
+
   $templateCache.put('src/containers/builds/builds.html',
     "<div class=\"container-fluid container-cards-pf apf-objects-view\"><div ng-if=\"buildsLoaded\"><div ng-if=\"builds && builds.length > 0\"><div pf-toolbar=\"\" class=\"row\" config=\"toolbarConfig\"></div><div object-list=\"\" list-class=\"row\" list-id=\"{{listId}}\" list-config=\"listConfig\" items=\"builds\" columns=\"columns\"></div></div><div ng-if=\"!builds || builds.length < 1\"><div class=\"blank-slate-pf\" style=\"\"><div class=\"blank-slate-pf-icon\"><i class=\"fa fa-cogs\"></i></div><h1>Deploy a Build</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><div class=\"blank-slate-pf-main-action\"><button class=\"btn btn-primary btn-lg\">Deploy New Build</button></div></div></div></div></div>"
   );
@@ -187,7 +247,7 @@ angular.module('apf.appModule').run(['$templateCache', function($templateCache) 
 
 
   $templateCache.put('src/draft/draft.html',
-    "<div class=\"blank-slate-pf\" id=\"\"><div class=\"blank-slate-pf-icon\"><span class=\"pficon pficon pficon-add-circle-o\"></span></div><h1>Draft Dashboard</h1><p>This is where the magic happens.</p></div>"
+    "<div class=\"blank-slate-pf\" id=\"\"><div class=\"blank-slate-pf-icon\"><span class=\"pficon pficon pficon-add-circle-o\"></span></div><h1>Draft Dashboard</h1><p>This is where the magic happens.</p></div><div pf-toolbar=\"\" class=\"row\" config=\"toolbarConfig\"></div><div object-list=\"\" list-class=\"centers-list row\" list-id=\"centersList\" list-config=\"listConfig\" items=\"centers\" columns=\"columns\"></div>"
   );
 
 

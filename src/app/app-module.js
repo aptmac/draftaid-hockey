@@ -6,6 +6,8 @@ angular.module ('apf.appModule', [
   'patternfly',
   'patternfly.toolbars',
   'patternfly.charts',
+  'apf.util',
+  'apf.charts',
   'apf.containersModule',
   'apf.draftModule',
   'apf.teamModule',
