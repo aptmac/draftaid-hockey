@@ -29,15 +29,15 @@ def get_data():
         if len(text) > 1:
             if "google" in text[2]:
                 continue
+            print(text)
             rank = text[0]
-            name = text[1]
-            team = text[2]
-            best = text[3]
-            worst = text[4]
-            average = text[5]
-            stddev = text[6]
-            name = re.match(r'(.*[a-z])([A-Z]+)', text[1]).group(1)
-            position = re.match(r'(.*[a-z])([A-Z]+)', text[1]).group(2)
+            best = text[2]
+            worst = text[3]
+            average = text[4]
+            stddev = text[5]
+            name = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(1)
+            team = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(2)
+            position = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(3)
             player['tier'] = tier
             player['position'] = position
             player['name'] = name
