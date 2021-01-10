@@ -1,0 +1,3094 @@
+{
+    "rankings":[
+       {
+          "tier":2,
+          "position":"C",
+          "name":"Aleksander Barkov ",
+          "team":"FLA",
+          "best":"21",
+          "worst":"41",
+          "average_rank":"28.2",
+          "std_dev":"7.9"
+       },
+       {
+          "tier":2,
+          "position":"RW",
+          "name":"Mark Stone ",
+          "team":"VGK",
+          "best":"25",
+          "worst":"53",
+          "average_rank":"36.4",
+          "std_dev":"11.2"
+       },
+       {
+          "tier":2,
+          "position":"D",
+          "name":"Quinn Hughes ",
+          "team":"VAN",
+          "best":"22",
+          "worst":"59",
+          "average_rank":"39.2",
+          "std_dev":"12.0"
+       },
+       {
+          "tier":3,
+          "position":"C",
+          "name":"Sean Couturier ",
+          "team":"PHI",
+          "best":"56",
+          "worst":"67",
+          "average_rank":"61.4",
+          "std_dev":"4.5"
+       },
+       {
+          "tier":3,
+          "position":"G",
+          "name":"Ilya Samsonov ",
+          "team":"WSH",
+          "best":"41",
+          "worst":"88",
+          "average_rank":"62.0",
+          "std_dev":"16.1"
+       },
+       {
+          "tier":3,
+          "position":"C",
+          "name":"Nicklas Backstrom ",
+          "team":"WSH",
+          "best":"53",
+          "worst":"76",
+          "average_rank":"62.4",
+          "std_dev":"7.8"
+       },
+       {
+          "tier":4,
+          "position":"RW",
+          "name":"Brock Boeser ",
+          "team":"VAN",
+          "best":"44",
+          "worst":"81",
+          "average_rank":"65.2",
+          "std_dev":"12.7"
+       },
+       {
+          "tier":4,
+          "position":"LW",
+          "name":"Filip Forsberg ",
+          "team":"NSH",
+          "best":"62",
+          "worst":"84",
+          "average_rank":"74.4",
+          "std_dev":"8.2"
+       },
+       {
+          "tier":4,
+          "position":"RW",
+          "name":"Alexander Radulov ",
+          "team":"DAL",
+          "best":"25",
+          "worst":"139",
+          "average_rank":"74.6",
+          "std_dev":"39.9"
+       },
+       {
+          "tier":4,
+          "position":"G",
+          "name":"Braden Holtby ",
+          "team":"VAN",
+          "best":"33",
+          "worst":"116",
+          "average_rank":"79.2",
+          "std_dev":"28.5"
+       },
+       {
+          "tier":4,
+          "position":"LW",
+          "name":"Kyle Connor ",
+          "team":"WPG",
+          "best":"39",
+          "worst":"123",
+          "average_rank":"80.2",
+          "std_dev":"26.9"
+       },
+       {
+          "tier":4,
+          "position":"LW",
+          "name":"J.T. Miller ",
+          "team":"VAN",
+          "best":"35",
+          "worst":"230",
+          "average_rank":"81.0",
+          "std_dev":"74.7"
+       },
+       {
+          "tier":4,
+          "position":"C",
+          "name":"Logan Couture ",
+          "team":"SJ",
+          "best":"67",
+          "worst":"116",
+          "average_rank":"82.2",
+          "std_dev":"17.3"
+       },
+       {
+          "tier":5,
+          "position":"C",
+          "name":"Tomas Hertl ",
+          "team":"SJ",
+          "best":"55",
+          "worst":"106",
+          "average_rank":"85.6",
+          "std_dev":"18.9"
+       },
+       {
+          "tier":5,
+          "position":"LW",
+          "name":"Alex DeBrincat ",
+          "team":"CHI",
+          "best":"52",
+          "worst":"132",
+          "average_rank":"87.4",
+          "std_dev":"29.4"
+       },
+       {
+          "tier":5,
+          "position":"LW",
+          "name":"Brady Tkachuk ",
+          "team":"OTT",
+          "best":"52",
+          "worst":"149",
+          "average_rank":"92.2",
+          "std_dev":"34.8"
+       },
+       {
+          "tier":5,
+          "position":"C",
+          "name":"Bo Horvat ",
+          "team":"VAN",
+          "best":"75",
+          "worst":"108",
+          "average_rank":"94.0",
+          "std_dev":"11.6"
+       },
+       {
+          "tier":5,
+          "position":"C",
+          "name":"Jonathan Toews ",
+          "team":"CHI",
+          "best":"29",
+          "worst":"157",
+          "average_rank":"94.8",
+          "std_dev":"45.8"
+       },
+       {
+          "tier":5,
+          "position":"LW",
+          "name":"Timo Meier ",
+          "team":"SJ",
+          "best":"67",
+          "worst":"121",
+          "average_rank":"97.6",
+          "std_dev":"17.8"
+       },
+       {
+          "tier":5,
+          "position":"G",
+          "name":"Anton Khudobin ",
+          "team":"DAL",
+          "best":"77",
+          "worst":"115",
+          "average_rank":"97.8",
+          "std_dev":"16.2"
+       },
+       {
+          "tier":5,
+          "position":"RW",
+          "name":"Tom Wilson ",
+          "team":"WSH",
+          "best":"74",
+          "worst":"115",
+          "average_rank":"98.0",
+          "std_dev":"16.0"
+       },
+       {
+          "tier":5,
+          "position":"D",
+          "name":"Mark Giordano ",
+          "team":"CGY",
+          "best":"69",
+          "worst":"124",
+          "average_rank":"102.6",
+          "std_dev":"21.5"
+       },
+       {
+          "tier":6,
+          "position":"C",
+          "name":"Jonathan Marchessault ",
+          "team":"VGK",
+          "best":"76",
+          "worst":"140",
+          "average_rank":"107.4",
+          "std_dev":"22.1"
+       },
+       {
+          "tier":6,
+          "position":"C",
+          "name":"Pierre-Luc Dubois ",
+          "team":"CBJ",
+          "best":"74",
+          "worst":"143",
+          "average_rank":"109.2",
+          "std_dev":"23.5"
+       },
+       {
+          "tier":6,
+          "position":"C",
+          "name":"Matt Duchene ",
+          "team":"NSH",
+          "best":"59",
+          "worst":"202",
+          "average_rank":"109.6",
+          "std_dev":"49.2"
+       },
+       {
+          "tier":6,
+          "position":"D",
+          "name":"Shea Weber ",
+          "team":"MTL",
+          "best":"78",
+          "worst":"179",
+          "average_rank":"112.4",
+          "std_dev":"36.1"
+       },
+       {
+          "tier":6,
+          "position":"RW",
+          "name":"Cam Atkinson ",
+          "team":"CBJ",
+          "best":"81",
+          "worst":"129",
+          "average_rank":"112.4",
+          "std_dev":"18.9"
+       },
+       {
+          "tier":6,
+          "position":"RW",
+          "name":"Brendan Gallagher ",
+          "team":"MTL",
+          "best":"86",
+          "worst":"136",
+          "average_rank":"112.8",
+          "std_dev":"19.9"
+       },
+       {
+          "tier":6,
+          "position":"C",
+          "name":"Nazem Kadri ",
+          "team":"COL",
+          "best":"72",
+          "worst":"174",
+          "average_rank":"116.8",
+          "std_dev":"39.8"
+       },
+       {
+          "tier":6,
+          "position":"C",
+          "name":"Brayden Schenn ",
+          "team":"STL",
+          "best":"73",
+          "worst":"163",
+          "average_rank":"117.2",
+          "std_dev":"31.9"
+       },
+       {
+          "tier":6,
+          "position":"G",
+          "name":"Joonas Korpisalo ",
+          "team":"CBJ",
+          "best":"71",
+          "worst":"172",
+          "average_rank":"117.8",
+          "std_dev":"32.1"
+       },
+       {
+          "tier":6,
+          "position":"LW",
+          "name":"Kevin Fiala ",
+          "team":"MIN",
+          "best":"68",
+          "worst":"276",
+          "average_rank":"118.0",
+          "std_dev":"79.3"
+       },
+       {
+          "tier":6,
+          "position":"RW",
+          "name":"T.J. Oshie ",
+          "team":"WSH",
+          "best":"73",
+          "worst":"172",
+          "average_rank":"118.4",
+          "std_dev":"38.0"
+       },
+       {
+          "tier":6,
+          "position":"LW",
+          "name":"Chris Kreider ",
+          "team":"NYR",
+          "best":"90",
+          "worst":"140",
+          "average_rank":"120.4",
+          "std_dev":"21.7"
+       },
+       {
+          "tier":6,
+          "position":"LW",
+          "name":"Evgenii Dadonov ",
+          "team":"OTT",
+          "best":"79",
+          "worst":"160",
+          "average_rank":"122.0",
+          "std_dev":"32.1"
+       },
+       {
+          "tier":6,
+          "position":"G",
+          "name":"Darcy Kuemper ",
+          "team":"ARI",
+          "best":"94",
+          "worst":"148",
+          "average_rank":"123.4",
+          "std_dev":"24.1"
+       },
+       {
+          "tier":7,
+          "position":"G",
+          "name":"Elivs Merzlikins ",
+          "team":"CBJ",
+          "best":"100",
+          "worst":"153",
+          "average_rank":"124.4",
+          "std_dev":"17.8"
+       },
+       {
+          "tier":7,
+          "position":"LW",
+          "name":"Jakub Voracek ",
+          "team":"PHI",
+          "best":"78",
+          "worst":"195",
+          "average_rank":"125.2",
+          "std_dev":"44.0"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"Sam Reinhart ",
+          "team":"BUF",
+          "best":"90",
+          "worst":"162",
+          "average_rank":"127.0",
+          "std_dev":"24.4"
+       },
+       {
+          "tier":7,
+          "position":"G",
+          "name":"Petr Mrazek ",
+          "team":"CAR",
+          "best":"71",
+          "worst":"185",
+          "average_rank":"129.4",
+          "std_dev":"40.6"
+       },
+       {
+          "tier":7,
+          "position":"RW",
+          "name":"Kyle Palmieri ",
+          "team":"NJ",
+          "best":"102",
+          "worst":"166",
+          "average_rank":"131.6",
+          "std_dev":"26.8"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"Paul Stastny ",
+          "team":"WPG",
+          "best":"61",
+          "worst":"224",
+          "average_rank":"136.2",
+          "std_dev":"56.7"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"Jeff Skinner ",
+          "team":"BUF",
+          "best":"77",
+          "worst":"214",
+          "average_rank":"141.0",
+          "std_dev":"49.4"
+       },
+       {
+          "tier":7,
+          "position":"LW",
+          "name":"Anthony Mantha ",
+          "team":"DET",
+          "best":"112",
+          "worst":"169",
+          "average_rank":"142.8",
+          "std_dev":"20.6"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"Tyler Seguin ",
+          "team":"DAL",
+          "best":"31",
+          "worst":"328",
+          "average_rank":"114.3",
+          "std_dev":"124.2"
+       },
+       {
+          "tier":7,
+          "position":"G",
+          "name":"Matt Murray ",
+          "team":"OTT",
+          "best":"93",
+          "worst":"188",
+          "average_rank":"147.2",
+          "std_dev":"42.2"
+       },
+       {
+          "tier":7,
+          "position":"RW",
+          "name":"Reilly Smith ",
+          "team":"VGK",
+          "best":"108",
+          "worst":"177",
+          "average_rank":"151.4",
+          "std_dev":"23.4"
+       },
+       {
+          "tier":7,
+          "position":"LW",
+          "name":"Zach Parise ",
+          "team":"MIN",
+          "best":"92",
+          "worst":"211",
+          "average_rank":"151.6",
+          "std_dev":"40.5"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"William Karlsson ",
+          "team":"VGK",
+          "best":"127",
+          "worst":"190",
+          "average_rank":"152.8",
+          "std_dev":"20.9"
+       },
+       {
+          "tier":7,
+          "position":"C",
+          "name":"Nico Hischier ",
+          "team":"NJ",
+          "best":"123",
+          "worst":"200",
+          "average_rank":"153.4",
+          "std_dev":"25.6"
+       },
+       {
+          "tier":7,
+          "position":"RW",
+          "name":"Travis Konecny ",
+          "team":"PHI",
+          "best":"92",
+          "worst":"237",
+          "average_rank":"154.4",
+          "std_dev":"48.5"
+       },
+       {
+          "tier":7,
+          "position":"D",
+          "name":"Ivan Provorov ",
+          "team":"PHI",
+          "best":"96",
+          "worst":"154",
+          "average_rank":"119.0",
+          "std_dev":"21.9"
+       },
+       {
+          "tier":8,
+          "position":"RW",
+          "name":"Phil Kessel ",
+          "team":"ARI",
+          "best":"72",
+          "worst":"176",
+          "average_rank":"121.0",
+          "std_dev":"37.0"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"David Krejci ",
+          "team":"BOS",
+          "best":"111",
+          "worst":"181",
+          "average_rank":"157.8",
+          "std_dev":"24.4"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"Joe Pavelski ",
+          "team":"DAL",
+          "best":"80",
+          "worst":"241",
+          "average_rank":"159.8",
+          "std_dev":"54.1"
+       },
+       {
+          "tier":8,
+          "position":"G",
+          "name":"Pavel Francouz ",
+          "team":"COL",
+          "best":"90",
+          "worst":"178",
+          "average_rank":"126.5",
+          "std_dev":"32.0"
+       },
+       {
+          "tier":8,
+          "position":"D",
+          "name":"Dustin Byfuglien ",
+          "team":"FA",
+          "best":"48",
+          "worst":"390",
+          "average_rank":"160.3",
+          "std_dev":"134.7"
+       },
+       {
+          "tier":8,
+          "position":"LW",
+          "name":"Viktor Arvidsson ",
+          "team":"NSH",
+          "best":"90",
+          "worst":"233",
+          "average_rank":"138.0",
+          "std_dev":"57.4"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"Kevin Hayes ",
+          "team":"PHI",
+          "best":"124",
+          "worst":"190",
+          "average_rank":"172.6",
+          "std_dev":"24.8"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"Ryan Getzlaf ",
+          "team":"ANA",
+          "best":"125",
+          "worst":"215",
+          "average_rank":"173.4",
+          "std_dev":"31.0"
+       },
+       {
+          "tier":8,
+          "position":"LW",
+          "name":"Tomas Tatar ",
+          "team":"MTL",
+          "best":"121",
+          "worst":"239",
+          "average_rank":"175.6",
+          "std_dev":"38.1"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"Andrew Shaw ",
+          "team":"CHI",
+          "best":"82",
+          "worst":"245",
+          "average_rank":"146.0",
+          "std_dev":"60.3"
+       },
+       {
+          "tier":8,
+          "position":"C",
+          "name":"Ryan Johansen ",
+          "team":"NSH",
+          "best":"100",
+          "worst":"193",
+          "average_rank":"147.0",
+          "std_dev":"33.0"
+       },
+       {
+          "tier":8,
+          "position":"LW",
+          "name":"Pavel Buchnevich ",
+          "team":"NYR",
+          "best":"139",
+          "worst":"207",
+          "average_rank":"178.0",
+          "std_dev":"23.7"
+       },
+       {
+          "tier":8,
+          "position":"D",
+          "name":"Mathew Dumba ",
+          "team":"MIN",
+          "best":"149",
+          "worst":"214",
+          "average_rank":"178.8",
+          "std_dev":"21.9"
+       },
+       {
+          "tier":8,
+          "position":"G",
+          "name":"Jaroslav Halak ",
+          "team":"BOS",
+          "best":"119",
+          "worst":"176",
+          "average_rank":"149.0",
+          "std_dev":"22.7"
+       },
+       {
+          "tier":9,
+          "position":"C",
+          "name":"Alex Galchenyuk ",
+          "team":"OTT",
+          "best":"86",
+          "worst":"250",
+          "average_rank":"149.8",
+          "std_dev":"60.8"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Jakub Vrana ",
+          "team":"WSH",
+          "best":"88",
+          "worst":"266",
+          "average_rank":"150.3",
+          "std_dev":"69.3"
+       },
+       {
+          "tier":9,
+          "position":"RW",
+          "name":"Josh Anderson ",
+          "team":"MTL",
+          "best":"121",
+          "worst":"226",
+          "average_rank":"180.4",
+          "std_dev":"34.3"
+       },
+       {
+          "tier":9,
+          "position":"G",
+          "name":"Juuse Saros ",
+          "team":"NSH",
+          "best":"116",
+          "worst":"181",
+          "average_rank":"150.8",
+          "std_dev":"25.7"
+       },
+       {
+          "tier":9,
+          "position":"C",
+          "name":"Eric Staal ",
+          "team":"BUF",
+          "best":"142",
+          "worst":"225",
+          "average_rank":"181.8",
+          "std_dev":"33.6"
+       },
+       {
+          "tier":9,
+          "position":"C",
+          "name":"Brock Nelson ",
+          "team":"NYI",
+          "best":"141",
+          "worst":"223",
+          "average_rank":"182.0",
+          "std_dev":"30.9"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Clayton Keller ",
+          "team":"ARI",
+          "best":"147",
+          "worst":"217",
+          "average_rank":"183.6",
+          "std_dev":"23.2"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Anders Lee ",
+          "team":"NYI",
+          "best":"122",
+          "worst":"188",
+          "average_rank":"155.3",
+          "std_dev":"27.9"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Rickard Rakell ",
+          "team":"ANA",
+          "best":"156",
+          "worst":"232",
+          "average_rank":"186.4",
+          "std_dev":"28.3"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"James Van Riemsdyk ",
+          "team":"PHI",
+          "best":"105",
+          "worst":"219",
+          "average_rank":"159.0",
+          "std_dev":"40.5"
+       },
+       {
+          "tier":9,
+          "position":"C",
+          "name":"Brandon Pirri ",
+          "team":"CHI",
+          "best":"101",
+          "worst":"249",
+          "average_rank":"162.5",
+          "std_dev":"53.9"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Andre Burakovsky ",
+          "team":"COL",
+          "best":"83",
+          "worst":"287",
+          "average_rank":"163.5",
+          "std_dev":"75.7"
+       },
+       {
+          "tier":9,
+          "position":"G",
+          "name":"Thatcher Demko ",
+          "team":"VAN",
+          "best":"134",
+          "worst":"205",
+          "average_rank":"163.8",
+          "std_dev":"29.7"
+       },
+       {
+          "tier":9,
+          "position":"RW",
+          "name":"Josh Bailey ",
+          "team":"NYI",
+          "best":"148",
+          "worst":"219",
+          "average_rank":"191.6",
+          "std_dev":"24.5"
+       },
+       {
+          "tier":9,
+          "position":"G",
+          "name":"Devan Dubnyk ",
+          "team":"SJ",
+          "best":"169",
+          "worst":"226",
+          "average_rank":"192.4",
+          "std_dev":"20.5"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Alexis Lafreniere ",
+          "team":"NYR",
+          "best":"91",
+          "worst":"143",
+          "average_rank":"120.3",
+          "std_dev":"21.7"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Kirill Kaprizov ",
+          "team":"MIN",
+          "best":"99",
+          "worst":"158",
+          "average_rank":"121.3",
+          "std_dev":"26.1"
+       },
+       {
+          "tier":9,
+          "position":"LW",
+          "name":"Jaden Schwartz ",
+          "team":"STL",
+          "best":"128",
+          "worst":"199",
+          "average_rank":"166.3",
+          "std_dev":"31.2"
+       },
+       {
+          "tier":10,
+          "position":"RW",
+          "name":"Victor Olofsson ",
+          "team":"BUF",
+          "best":"103",
+          "worst":"162",
+          "average_rank":"123.3",
+          "std_dev":"27.4"
+       },
+       {
+          "tier":10,
+          "position":"D",
+          "name":"Mikhail Sergachev ",
+          "team":"TB",
+          "best":"149",
+          "worst":"223",
+          "average_rank":"168.0",
+          "std_dev":"31.8"
+       },
+       {
+          "tier":10,
+          "position":"G",
+          "name":"Ilya Sorokin ",
+          "team":"NYI",
+          "best":"139",
+          "worst":"209",
+          "average_rank":"170.0",
+          "std_dev":"28.8"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Dominik Kubalik ",
+          "team":"CHI",
+          "best":"120",
+          "worst":"140",
+          "average_rank":"127.3",
+          "std_dev":"9.0"
+       },
+       {
+          "tier":10,
+          "position":"D",
+          "name":"Jake Muzzin ",
+          "team":"TOR",
+          "best":"160",
+          "worst":"230",
+          "average_rank":"197.4",
+          "std_dev":"22.8"
+       },
+       {
+          "tier":10,
+          "position":"D",
+          "name":"Alexander Edler ",
+          "team":"VAN",
+          "best":"129",
+          "worst":"251",
+          "average_rank":"197.6",
+          "std_dev":"41.7"
+       },
+       {
+          "tier":10,
+          "position":"C",
+          "name":"Dylan Strome ",
+          "team":"CHI",
+          "best":"126",
+          "worst":"197",
+          "average_rank":"172.0",
+          "std_dev":"27.6"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Mikael Granlund ",
+          "team":"NSH",
+          "best":"118",
+          "worst":"234",
+          "average_rank":"173.8",
+          "std_dev":"41.1"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Jake DeBrusk ",
+          "team":"BOS",
+          "best":"157",
+          "worst":"234",
+          "average_rank":"199.6",
+          "std_dev":"28.6"
+       },
+       {
+          "tier":10,
+          "position":"C",
+          "name":"Andreas Athanasiou ",
+          "team":"LA",
+          "best":"110",
+          "worst":"264",
+          "average_rank":"174.5",
+          "std_dev":"55.9"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Bryan Rust ",
+          "team":"PIT",
+          "best":"107",
+          "worst":"165",
+          "average_rank":"134.0",
+          "std_dev":"23.8"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Nikolaj Ehlers ",
+          "team":"WPG",
+          "best":"115",
+          "worst":"223",
+          "average_rank":"177.5",
+          "std_dev":"40.7"
+       },
+       {
+          "tier":10,
+          "position":"G",
+          "name":"Henrik Lundqvist ",
+          "team":"WSH",
+          "best":"96",
+          "worst":"166",
+          "average_rank":"136.7",
+          "std_dev":"29.7"
+       },
+       {
+          "tier":10,
+          "position":"RW",
+          "name":"Alex Tuch ",
+          "team":"VGK",
+          "best":"156",
+          "worst":"238",
+          "average_rank":"202.4",
+          "std_dev":"31.4"
+       },
+       {
+          "tier":10,
+          "position":"LW",
+          "name":"Jonathan Drouin ",
+          "team":"MTL",
+          "best":"151",
+          "worst":"230",
+          "average_rank":"203.0",
+          "std_dev":"27.9"
+       },
+       {
+          "tier":10,
+          "position":"RW",
+          "name":"Mats Zuccarello ",
+          "team":"MIN",
+          "best":"123",
+          "worst":"243",
+          "average_rank":"180.3",
+          "std_dev":"42.8"
+       },
+       {
+          "tier":11,
+          "position":"RW",
+          "name":"Kaapo Kakko ",
+          "team":"NYR",
+          "best":"139",
+          "worst":"208",
+          "average_rank":"180.3",
+          "std_dev":"25.4"
+       },
+       {
+          "tier":11,
+          "position":"C",
+          "name":"Vincent Trocheck ",
+          "team":"CAR",
+          "best":"130",
+          "worst":"207",
+          "average_rank":"182.5",
+          "std_dev":"30.7"
+       },
+       {
+          "tier":11,
+          "position":"LW",
+          "name":"Ondrej Palat ",
+          "team":"TB",
+          "best":"118",
+          "worst":"296",
+          "average_rank":"182.8",
+          "std_dev":"69.1"
+       },
+       {
+          "tier":11,
+          "position":"D",
+          "name":"Darnell Nurse ",
+          "team":"EDM",
+          "best":"161",
+          "worst":"211",
+          "average_rank":"183.5",
+          "std_dev":"21.5"
+       },
+       {
+          "tier":11,
+          "position":"G",
+          "name":"Pekka Rinne ",
+          "team":"NSH",
+          "best":"63",
+          "worst":"363",
+          "average_rank":"200.5",
+          "std_dev":"126.5"
+       },
+       {
+          "tier":11,
+          "position":"D",
+          "name":"Ryan Pulock ",
+          "team":"NYI",
+          "best":"135",
+          "worst":"253",
+          "average_rank":"185.5",
+          "std_dev":"42.7"
+       },
+       {
+          "tier":11,
+          "position":"LW",
+          "name":"Dustin Brown ",
+          "team":"LA",
+          "best":"152",
+          "worst":"243",
+          "average_rank":"210.2",
+          "std_dev":"31.1"
+       },
+       {
+          "tier":11,
+          "position":"RW",
+          "name":"Denis Gurianov ",
+          "team":"DAL",
+          "best":"117",
+          "worst":"174",
+          "average_rank":"150.7",
+          "std_dev":"24.4"
+       },
+       {
+          "tier":11,
+          "position":"LW",
+          "name":"Nikita Gusev ",
+          "team":"NJ",
+          "best":"160",
+          "worst":"239",
+          "average_rank":"189.0",
+          "std_dev":"30.7"
+       },
+       {
+          "tier":11,
+          "position":"LW",
+          "name":"Nino Niederreiter ",
+          "team":"CAR",
+          "best":"134",
+          "worst":"238",
+          "average_rank":"189.3",
+          "std_dev":"37.3"
+       },
+       {
+          "tier":11,
+          "position":"G",
+          "name":"Martin Jones ",
+          "team":"SJ",
+          "best":"44",
+          "worst":"372",
+          "average_rank":"176.3",
+          "std_dev":"141.2"
+       },
+       {
+          "tier":11,
+          "position":"LW",
+          "name":"Ryan Dzingel ",
+          "team":"CAR",
+          "best":"128",
+          "worst":"263",
+          "average_rank":"190.0",
+          "std_dev":"48.3"
+       },
+       {
+          "tier":11,
+          "position":"D",
+          "name":"Erik Gustafsson ",
+          "team":"FA",
+          "best":"120",
+          "worst":"309",
+          "average_rank":"192.3",
+          "std_dev":"70.7"
+       },
+       {
+          "tier":11,
+          "position":"G",
+          "name":"Cam Talbot ",
+          "team":"MIN",
+          "best":"153",
+          "worst":"256",
+          "average_rank":"194.3",
+          "std_dev":"38.5"
+       },
+       {
+          "tier":11,
+          "position":"RW",
+          "name":"Patric Hornqvist ",
+          "team":"FLA",
+          "best":"147",
+          "worst":"236",
+          "average_rank":"194.5",
+          "std_dev":"34.2"
+       },
+       {
+          "tier":11,
+          "position":"G",
+          "name":"Corey Crawford ",
+          "team":"NJ",
+          "best":"103",
+          "worst":"278",
+          "average_rank":"196.5",
+          "std_dev":"70.0"
+       },
+       {
+          "tier":12,
+          "position":"RW",
+          "name":"Oliver Bjorkstrand ",
+          "team":"CBJ",
+          "best":"130",
+          "worst":"199",
+          "average_rank":"161.7",
+          "std_dev":"28.5"
+       },
+       {
+          "tier":12,
+          "position":"G",
+          "name":"Ben Bishop ",
+          "team":"DAL",
+          "best":"89",
+          "worst":"338",
+          "average_rank":"175.0",
+          "std_dev":"115.3"
+       },
+       {
+          "tier":12,
+          "position":"C",
+          "name":"Jordan Staal ",
+          "team":"CAR",
+          "best":"132",
+          "worst":"277",
+          "average_rank":"197.8",
+          "std_dev":"51.9"
+       },
+       {
+          "tier":12,
+          "position":"D",
+          "name":"Aaron Ekblad ",
+          "team":"FLA",
+          "best":"164",
+          "worst":"244",
+          "average_rank":"199.0",
+          "std_dev":"34.5"
+       },
+       {
+          "tier":12,
+          "position":"RW",
+          "name":"Ryan Strome ",
+          "team":"NYR",
+          "best":"132",
+          "worst":"203",
+          "average_rank":"166.0",
+          "std_dev":"29.1"
+       },
+       {
+          "tier":12,
+          "position":"LW",
+          "name":"Jason Zucker ",
+          "team":"PIT",
+          "best":"149",
+          "worst":"229",
+          "average_rank":"199.8",
+          "std_dev":"31.2"
+       },
+       {
+          "tier":12,
+          "position":"LW",
+          "name":"Andreas Johnsson ",
+          "team":"NJ",
+          "best":"163",
+          "worst":"241",
+          "average_rank":"201.5",
+          "std_dev":"34.0"
+       },
+       {
+          "tier":12,
+          "position":"LW",
+          "name":"Tyler Bertuzzi ",
+          "team":"DET",
+          "best":"164",
+          "worst":"242",
+          "average_rank":"202.8",
+          "std_dev":"29.9"
+       },
+       {
+          "tier":12,
+          "position":"G",
+          "name":"Cory Schneider ",
+          "team":"NJ",
+          "best":"130",
+          "worst":"391",
+          "average_rank":"226.5",
+          "std_dev":"98.3"
+       },
+       {
+          "tier":12,
+          "position":"C",
+          "name":"Mikael Backlund ",
+          "team":"CGY",
+          "best":"182",
+          "worst":"264",
+          "average_rank":"224.2",
+          "std_dev":"27.2"
+       },
+       {
+          "tier":12,
+          "position":"LW",
+          "name":"Gustav Nyquist ",
+          "team":"CBJ",
+          "best":"141",
+          "worst":"281",
+          "average_rank":"206.8",
+          "std_dev":"50.0"
+       },
+       {
+          "tier":12,
+          "position":"NA",
+          "name":"Carter Verhaeghe ",
+          "team":"FLA",
+          "best":"137",
+          "worst":"385",
+          "average_rank":"229.0",
+          "std_dev":"93.5"
+       },
+       {
+          "tier":12,
+          "position":"RW",
+          "name":"Jesper Bratt ",
+          "team":"NJ",
+          "best":"150",
+          "worst":"255",
+          "average_rank":"208.5",
+          "std_dev":"38.0"
+       },
+       {
+          "tier":12,
+          "position":"C",
+          "name":"Cody Glass ",
+          "team":"FA",
+          "best":"188",
+          "worst":"272",
+          "average_rank":"228.2",
+          "std_dev":"32.0"
+       },
+       {
+          "tier":12,
+          "position":"LW",
+          "name":"Kevin Labanc ",
+          "team":"SJ",
+          "best":"154",
+          "worst":"253",
+          "average_rank":"211.5",
+          "std_dev":"36.3"
+       },
+       {
+          "tier":12,
+          "position":"RW",
+          "name":"Jordan Eberle ",
+          "team":"NYI",
+          "best":"192",
+          "worst":"276",
+          "average_rank":"229.6",
+          "std_dev":"28.2"
+       },
+       {
+          "tier":12,
+          "position":"D",
+          "name":"P.K. Subban ",
+          "team":"NJ",
+          "best":"104",
+          "worst":"288",
+          "average_rank":"185.7",
+          "std_dev":"76.5"
+       },
+       {
+          "tier":12,
+          "position":"C",
+          "name":"Erik Haula ",
+          "team":"NSH",
+          "best":"145",
+          "worst":"303",
+          "average_rank":"215.5",
+          "std_dev":"56.7"
+       },
+       {
+          "tier":12,
+          "position":"C",
+          "name":"Tyler Toffoli ",
+          "team":"MTL",
+          "best":"161",
+          "worst":"240",
+          "average_rank":"188.0",
+          "std_dev":"36.8"
+       },
+       {
+          "tier":12,
+          "position":"RW",
+          "name":"Dmytro Timashov ",
+          "team":"NYI",
+          "best":"155",
+          "worst":"268",
+          "average_rank":"217.0",
+          "std_dev":"40.6"
+       },
+       {
+          "tier":13,
+          "position":"RW",
+          "name":"Ondrej Kase ",
+          "team":"BOS",
+          "best":"157",
+          "worst":"261",
+          "average_rank":"217.0",
+          "std_dev":"38.1"
+       },
+       {
+          "tier":13,
+          "position":"G",
+          "name":"Mikko Koskinen ",
+          "team":"EDM",
+          "best":"151",
+          "worst":"249",
+          "average_rank":"190.0",
+          "std_dev":"42.4"
+       },
+       {
+          "tier":13,
+          "position":"G",
+          "name":"Mackenzie Blackwood ",
+          "team":"FA",
+          "best":"183",
+          "worst":"267",
+          "average_rank":"218.8",
+          "std_dev":"32.0"
+       },
+       {
+          "tier":13,
+          "position":"G",
+          "name":"Alexandar Georgiev ",
+          "team":"NYR",
+          "best":"177",
+          "worst":"260",
+          "average_rank":"219.0",
+          "std_dev":"36.4"
+       },
+       {
+          "tier":13,
+          "position":"LW",
+          "name":"Roope Hintz ",
+          "team":"DAL",
+          "best":"191",
+          "worst":"275",
+          "average_rank":"219.0",
+          "std_dev":"33.2"
+       },
+       {
+          "tier":13,
+          "position":"C",
+          "name":"Zach Hyman ",
+          "team":"TOR",
+          "best":"179",
+          "worst":"298",
+          "average_rank":"237.2",
+          "std_dev":"44.0"
+       },
+       {
+          "tier":13,
+          "position":"C",
+          "name":"Joe Thornton ",
+          "team":"TOR",
+          "best":"158",
+          "worst":"291",
+          "average_rank":"225.5",
+          "std_dev":"47.4"
+       },
+       {
+          "tier":13,
+          "position":"C",
+          "name":"Anthony Cirelli ",
+          "team":"TB",
+          "best":"159",
+          "worst":"274",
+          "average_rank":"225.8",
+          "std_dev":"41.7"
+       },
+       {
+          "tier":13,
+          "position":"RW",
+          "name":"Jakob Silfverberg ",
+          "team":"ANA",
+          "best":"165",
+          "worst":"265",
+          "average_rank":"225.8",
+          "std_dev":"37.4"
+       },
+       {
+          "tier":13,
+          "position":"D",
+          "name":"Nate Schmidt ",
+          "team":"VAN",
+          "best":"168",
+          "worst":"248",
+          "average_rank":"202.7",
+          "std_dev":"33.5"
+       },
+       {
+          "tier":13,
+          "position":"RW",
+          "name":"Kasperi Kapanen ",
+          "team":"PIT",
+          "best":"173",
+          "worst":"279",
+          "average_rank":"227.5",
+          "std_dev":"41.5"
+       },
+       {
+          "tier":13,
+          "position":"C",
+          "name":"Phillip Danault ",
+          "team":"MTL",
+          "best":"183",
+          "worst":"266",
+          "average_rank":"228.3",
+          "std_dev":"30.6"
+       },
+       {
+          "tier":13,
+          "position":"D",
+          "name":"Jaccob Slavin ",
+          "team":"CAR",
+          "best":"164",
+          "worst":"243",
+          "average_rank":"204.3",
+          "std_dev":"32.3"
+       },
+       {
+          "tier":13,
+          "position":"LW",
+          "name":"Anthony Beauvillier ",
+          "team":"NYI",
+          "best":"171",
+          "worst":"251",
+          "average_rank":"208.3",
+          "std_dev":"32.9"
+       },
+       {
+          "tier":13,
+          "position":"G",
+          "name":"Jonathan Quick ",
+          "team":"LA",
+          "best":"196",
+          "worst":"282",
+          "average_rank":"232.0",
+          "std_dev":"31.2"
+       },
+       {
+          "tier":13,
+          "position":"G",
+          "name":"Mike Smith ",
+          "team":"EDM",
+          "best":"131",
+          "worst":"196",
+          "average_rank":"163.5",
+          "std_dev":"32.5"
+       },
+       {
+          "tier":13,
+          "position":"D",
+          "name":"Shayne Gostisbehere ",
+          "team":"PHI",
+          "best":"155",
+          "worst":"322",
+          "average_rank":"218.0",
+          "std_dev":"74.1"
+       },
+       {
+          "tier":13,
+          "position":"D",
+          "name":"Kevin Shattenkirk ",
+          "team":"ANA",
+          "best":"201",
+          "worst":"289",
+          "average_rank":"233.8",
+          "std_dev":"35.8"
+       },
+       {
+          "tier":14,
+          "position":"C",
+          "name":"Manuel Wiederer ",
+          "team":"FA",
+          "best":"166",
+          "worst":"294",
+          "average_rank":"234.5",
+          "std_dev":"45.7"
+       },
+       {
+          "tier":14,
+          "position":"RW",
+          "name":"Alex Chiasson ",
+          "team":"EDM",
+          "best":"167",
+          "worst":"297",
+          "average_rank":"236.0",
+          "std_dev":"46.4"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Nick Ritchie ",
+          "team":"BOS",
+          "best":"172",
+          "worst":"279",
+          "average_rank":"236.0",
+          "std_dev":"39.5"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Richard Panik ",
+          "team":"WSH",
+          "best":"174",
+          "worst":"280",
+          "average_rank":"237.8",
+          "std_dev":"39.3"
+       },
+       {
+          "tier":14,
+          "position":"G",
+          "name":"Jake Allen ",
+          "team":"MTL",
+          "best":"181",
+          "worst":"254",
+          "average_rank":"217.0",
+          "std_dev":"29.8"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Brandon Saad ",
+          "team":"COL",
+          "best":"184",
+          "worst":"268",
+          "average_rank":"219.0",
+          "std_dev":"35.7"
+       },
+       {
+          "tier":14,
+          "position":"G",
+          "name":"Jimmy Howard ",
+          "team":"DET",
+          "best":"146",
+          "worst":"316",
+          "average_rank":"243.5",
+          "std_dev":"67.9"
+       },
+       {
+          "tier":14,
+          "position":"RW",
+          "name":"Jesse Puljujarvi ",
+          "team":"EDM",
+          "best":"175",
+          "worst":"257",
+          "average_rank":"220.0",
+          "std_dev":"34.0"
+       },
+       {
+          "tier":14,
+          "position":"C",
+          "name":"Travis Zajac ",
+          "team":"NJ",
+          "best":"171",
+          "worst":"305",
+          "average_rank":"241.5",
+          "std_dev":"47.6"
+       },
+       {
+          "tier":14,
+          "position":"D",
+          "name":"Erik Gustafsson ",
+          "team":"PHI",
+          "best":"147",
+          "worst":"302",
+          "average_rank":"223.0",
+          "std_dev":"63.3"
+       },
+       {
+          "tier":14,
+          "position":"D",
+          "name":"Mattias Ekholm ",
+          "team":"NSH",
+          "best":"215",
+          "worst":"281",
+          "average_rank":"243.3",
+          "std_dev":"24.6"
+       },
+       {
+          "tier":14,
+          "position":"D",
+          "name":"Filip Hronek ",
+          "team":"DET",
+          "best":"209",
+          "worst":"295",
+          "average_rank":"244.3",
+          "std_dev":"31.4"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Ryan Poehling ",
+          "team":"MTL",
+          "best":"176",
+          "worst":"300",
+          "average_rank":"244.8",
+          "std_dev":"44.7"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Yanni Gourde ",
+          "team":"TB",
+          "best":"178",
+          "worst":"301",
+          "average_rank":"246.5",
+          "std_dev":"44.4"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Joel Kiviranta ",
+          "team":"DAL",
+          "best":"196",
+          "worst":"283",
+          "average_rank":"228.7",
+          "std_dev":"38.7"
+       },
+       {
+          "tier":14,
+          "position":"D",
+          "name":"Samuel Girard ",
+          "team":"COL",
+          "best":"197",
+          "worst":"288",
+          "average_rank":"246.8",
+          "std_dev":"40.4"
+       },
+       {
+          "tier":14,
+          "position":"LW",
+          "name":"Nicholas Robertson ",
+          "team":"TOR",
+          "best":"199",
+          "worst":"287",
+          "average_rank":"231.3",
+          "std_dev":"39.5"
+       },
+       {
+          "tier":14,
+          "position":"C",
+          "name":"Nick Shore ",
+          "team":"WPG",
+          "best":"159",
+          "worst":"238",
+          "average_rank":"198.5",
+          "std_dev":"39.5"
+       },
+       {
+          "tier":14,
+          "position":"C",
+          "name":"Jean-Gabriel Pageau ",
+          "team":"NYI",
+          "best":"192",
+          "worst":"277",
+          "average_rank":"233.7",
+          "std_dev":"34.7"
+       },
+       {
+          "tier":14,
+          "position":"D",
+          "name":"Josh Morrissey ",
+          "team":"WPG",
+          "best":"221",
+          "worst":"272",
+          "average_rank":"250.8",
+          "std_dev":"19.8"
+       },
+       {
+          "tier":15,
+          "position":"LW",
+          "name":"Micheal Ferland ",
+          "team":"VAN",
+          "best":"187",
+          "worst":"306",
+          "average_rank":"254.0",
+          "std_dev":"43.2"
+       },
+       {
+          "tier":15,
+          "position":"LW",
+          "name":"Tyler Johnson ",
+          "team":"TB",
+          "best":"190",
+          "worst":"311",
+          "average_rank":"255.8",
+          "std_dev":"43.9"
+       },
+       {
+          "tier":15,
+          "position":"G",
+          "name":"James Reimer ",
+          "team":"CAR",
+          "best":"222",
+          "worst":"257",
+          "average_rank":"237.7",
+          "std_dev":"14.5"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Quinton Byfield ",
+          "team":"LA",
+          "best":"204",
+          "worst":"291",
+          "average_rank":"239.7",
+          "std_dev":"37.2"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Tim Stutzle ",
+          "team":"OTT",
+          "best":"205",
+          "worst":"292",
+          "average_rank":"239.7",
+          "std_dev":"37.7"
+       },
+       {
+          "tier":15,
+          "position":"RW",
+          "name":"Colin Campbell ",
+          "team":"FA",
+          "best":"191",
+          "worst":"318",
+          "average_rank":"260.8",
+          "std_dev":"45.6"
+       },
+       {
+          "tier":15,
+          "position":"G",
+          "name":"Craig Anderson ",
+          "team":"WSH",
+          "best":"181",
+          "worst":"285",
+          "average_rank":"243.0",
+          "std_dev":"44.8"
+       },
+       {
+          "tier":15,
+          "position":"D",
+          "name":"Devon Toews ",
+          "team":"COL",
+          "best":"213",
+          "worst":"298",
+          "average_rank":"258.3",
+          "std_dev":"36.9"
+       },
+       {
+          "tier":15,
+          "position":"LW",
+          "name":"Alexander Nylander ",
+          "team":"CHI",
+          "best":"175",
+          "worst":"258",
+          "average_rank":"216.5",
+          "std_dev":"41.5"
+       },
+       {
+          "tier":15,
+          "position":"LW",
+          "name":"Blake Coleman ",
+          "team":"TB",
+          "best":"193",
+          "worst":"357",
+          "average_rank":"272.8",
+          "std_dev":"58.3"
+       },
+       {
+          "tier":15,
+          "position":"D",
+          "name":"Duncan Keith ",
+          "team":"CHI",
+          "best":"210",
+          "worst":"290",
+          "average_rank":"245.3",
+          "std_dev":"33.3"
+       },
+       {
+          "tier":15,
+          "position":"G",
+          "name":"Linus Ullmark ",
+          "team":"BUF",
+          "best":"227",
+          "worst":"266",
+          "average_rank":"248.0",
+          "std_dev":"16.1"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Nick Schmaltz ",
+          "team":"ARI",
+          "best":"213",
+          "worst":"300",
+          "average_rank":"249.3",
+          "std_dev":"36.9"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Martin Necas ",
+          "team":"CAR",
+          "best":"231",
+          "worst":"277",
+          "average_rank":"249.3",
+          "std_dev":"19.9"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Boone Jenner ",
+          "team":"CBJ",
+          "best":"195",
+          "worst":"280",
+          "average_rank":"249.7",
+          "std_dev":"38.7"
+       },
+       {
+          "tier":15,
+          "position":"C",
+          "name":"Mikko Koivu ",
+          "team":"CBJ",
+          "best":"198",
+          "worst":"310",
+          "average_rank":"265.8",
+          "std_dev":"41.7"
+       },
+       {
+          "tier":15,
+          "position":"LW",
+          "name":"Erik Foley ",
+          "team":"FA",
+          "best":"200",
+          "worst":"288",
+          "average_rank":"253.0",
+          "std_dev":"38.1"
+       },
+       {
+          "tier":15,
+          "position":"D",
+          "name":"Justin Schultz ",
+          "team":"WSH",
+          "best":"218",
+          "worst":"295",
+          "average_rank":"253.7",
+          "std_dev":"31.7"
+       },
+       {
+          "tier":15,
+          "position":"RW",
+          "name":"Craig Smith ",
+          "team":"BOS",
+          "best":"220",
+          "worst":"240",
+          "average_rank":"230.0",
+          "std_dev":"10.0"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Oscar Klefbom ",
+          "team":"EDM",
+          "best":"193",
+          "worst":"395",
+          "average_rank":"285.7",
+          "std_dev":"83.3"
+       },
+       {
+          "tier":16,
+          "position":"LW",
+          "name":"Cory Conacher ",
+          "team":"FA",
+          "best":"211",
+          "worst":"294",
+          "average_rank":"257.3",
+          "std_dev":"34.6"
+       },
+       {
+          "tier":16,
+          "position":"RW",
+          "name":"Joel Armia ",
+          "team":"MTL",
+          "best":"219",
+          "worst":"256",
+          "average_rank":"237.5",
+          "std_dev":"18.5"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Vince Dunn ",
+          "team":"STL",
+          "best":"235",
+          "worst":"282",
+          "average_rank":"262.0",
+          "std_dev":"19.8"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Jakob Chychrun ",
+          "team":"ARI",
+          "best":"238",
+          "worst":"247",
+          "average_rank":"242.5",
+          "std_dev":"4.5"
+       },
+       {
+          "tier":16,
+          "position":"C",
+          "name":"Alex Iafallo ",
+          "team":"LA",
+          "best":"228",
+          "worst":"262",
+          "average_rank":"245.0",
+          "std_dev":"17.0"
+       },
+       {
+          "tier":16,
+          "position":"C",
+          "name":"Derek Stepan ",
+          "team":"OTT",
+          "best":"213",
+          "worst":"297",
+          "average_rank":"264.3",
+          "std_dev":"36.7"
+       },
+       {
+          "tier":16,
+          "position":"C",
+          "name":"Alexander Killorn ",
+          "team":"TB",
+          "best":"217",
+          "worst":"285",
+          "average_rank":"251.0",
+          "std_dev":"34.0"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Matt Grzelcyk ",
+          "team":"BOS",
+          "best":"244",
+          "worst":"258",
+          "average_rank":"251.0",
+          "std_dev":"7.0"
+       },
+       {
+          "tier":16,
+          "position":"C",
+          "name":"Dominik Kahun ",
+          "team":"EDM",
+          "best":"209",
+          "worst":"296",
+          "average_rank":"252.5",
+          "std_dev":"43.5"
+       },
+       {
+          "tier":16,
+          "position":"LW",
+          "name":"Andrew Mangiapane ",
+          "team":"CGY",
+          "best":"212",
+          "worst":"299",
+          "average_rank":"255.5",
+          "std_dev":"43.5"
+       },
+       {
+          "tier":16,
+          "position":"G",
+          "name":"Antti Raanta ",
+          "team":"ARI",
+          "best":"218",
+          "worst":"315",
+          "average_rank":"266.5",
+          "std_dev":"48.5"
+       },
+       {
+          "tier":16,
+          "position":"C",
+          "name":"Trevor Zegras ",
+          "team":"ANA",
+          "best":"250",
+          "worst":"270",
+          "average_rank":"260.0",
+          "std_dev":"10.0"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Justin Faulk ",
+          "team":"STL",
+          "best":"224",
+          "worst":"307",
+          "average_rank":"265.5",
+          "std_dev":"41.5"
+       },
+       {
+          "tier":16,
+          "position":"G",
+          "name":"Thomas Greiss ",
+          "team":"DET",
+          "best":"254",
+          "worst":"346",
+          "average_rank":"290.3",
+          "std_dev":"40.0"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Radko Gudas ",
+          "team":"FLA",
+          "best":"226",
+          "worst":"326",
+          "average_rank":"276.0",
+          "std_dev":"50.0"
+       },
+       {
+          "tier":16,
+          "position":"D",
+          "name":"Ryan Graves ",
+          "team":"COL",
+          "best":"241",
+          "worst":"289",
+          "average_rank":"265.0",
+          "std_dev":"24.0"
+       },
+       {
+          "tier":16,
+          "position":"LW",
+          "name":"Anthony Duclair ",
+          "team":"FLA",
+          "best":"232",
+          "worst":"358",
+          "average_rank":"295.0",
+          "std_dev":"63.0"
+       },
+       {
+          "tier":16,
+          "position":"G",
+          "name":"Malcolm Subban ",
+          "team":"CHI",
+          "best":"235",
+          "worst":"235",
+          "average_rank":"235.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":16,
+          "position":"LW",
+          "name":"Joel Farabee ",
+          "team":"PHI",
+          "best":"236",
+          "worst":"347",
+          "average_rank":"291.5",
+          "std_dev":"55.5"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Ville Heinola ",
+          "team":"FA",
+          "best":"237",
+          "worst":"336",
+          "average_rank":"286.5",
+          "std_dev":"49.5"
+       },
+       {
+          "tier":17,
+          "position":"LW",
+          "name":"Marcus Johansson ",
+          "team":"MIN",
+          "best":"264",
+          "worst":"276",
+          "average_rank":"270.0",
+          "std_dev":"6.0"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Alex Turcotte ",
+          "team":"LA",
+          "best":"244",
+          "worst":"244",
+          "average_rank":"244.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"G",
+          "name":"Calvin Petersen ",
+          "team":"LA",
+          "best":"249",
+          "worst":"296",
+          "average_rank":"272.5",
+          "std_dev":"23.5"
+       },
+       {
+          "tier":17,
+          "position":"LW",
+          "name":"Grigori Denisenko ",
+          "team":"FLA",
+          "best":"245",
+          "worst":"245",
+          "average_rank":"245.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"G",
+          "name":"Kaapo Kahkonen ",
+          "team":"MIN",
+          "best":"246",
+          "worst":"246",
+          "average_rank":"246.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Marco Rossi ",
+          "team":"MIN",
+          "best":"247",
+          "worst":"370",
+          "average_rank":"308.5",
+          "std_dev":"61.5"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Drake Batherson ",
+          "team":"OTT",
+          "best":"258",
+          "worst":"290",
+          "average_rank":"274.0",
+          "std_dev":"16.0"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Rasmus Sandin ",
+          "team":"TOR",
+          "best":"248",
+          "worst":"314",
+          "average_rank":"281.0",
+          "std_dev":"33.0"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Alexandre Texier ",
+          "team":"CBJ",
+          "best":"270",
+          "worst":"282",
+          "average_rank":"276.0",
+          "std_dev":"6.0"
+       },
+       {
+          "tier":17,
+          "position":"LW",
+          "name":"Tanner Pearson ",
+          "team":"VAN",
+          "best":"252",
+          "worst":"252",
+          "average_rank":"252.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Mike Green ",
+          "team":"EDM",
+          "best":"256",
+          "worst":"324",
+          "average_rank":"290.0",
+          "std_dev":"34.0"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Erik Cernak ",
+          "team":"TB",
+          "best":"273",
+          "worst":"321",
+          "average_rank":"292.7",
+          "std_dev":"20.5"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Brandon Montour ",
+          "team":"BUF",
+          "best":"257",
+          "worst":"257",
+          "average_rank":"257.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Colin White ",
+          "team":"OTT",
+          "best":"259",
+          "worst":"308",
+          "average_rank":"283.5",
+          "std_dev":"24.5"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Barrett Hayton ",
+          "team":"ARI",
+          "best":"259",
+          "worst":"259",
+          "average_rank":"259.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"C",
+          "name":"Gabriel Vilardi ",
+          "team":"LA",
+          "best":"260",
+          "worst":"260",
+          "average_rank":"260.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":17,
+          "position":"LW",
+          "name":"Ryan Donato ",
+          "team":"SJ",
+          "best":"261",
+          "worst":"304",
+          "average_rank":"282.5",
+          "std_dev":"21.5"
+       },
+       {
+          "tier":17,
+          "position":"LW",
+          "name":"Frank Vatrano ",
+          "team":"FLA",
+          "best":"262",
+          "worst":"312",
+          "average_rank":"287.0",
+          "std_dev":"25.0"
+       },
+       {
+          "tier":17,
+          "position":"D",
+          "name":"Colin Miller ",
+          "team":"BUF",
+          "best":"265",
+          "worst":"265",
+          "average_rank":"265.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"LW",
+          "name":"Maxime Comtois ",
+          "team":"ANA",
+          "best":"267",
+          "worst":"374",
+          "average_rank":"320.5",
+          "std_dev":"53.5"
+       },
+       {
+          "tier":18,
+          "position":"D",
+          "name":"Jake Gardiner ",
+          "team":"CAR",
+          "best":"268",
+          "worst":"394",
+          "average_rank":"331.0",
+          "std_dev":"63.0"
+       },
+       {
+          "tier":18,
+          "position":"LW",
+          "name":"Filip Zadina ",
+          "team":"DET",
+          "best":"271",
+          "worst":"271",
+          "average_rank":"271.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Jack Roslovic ",
+          "team":"WPG",
+          "best":"272",
+          "worst":"313",
+          "average_rank":"292.5",
+          "std_dev":"20.5"
+       },
+       {
+          "tier":18,
+          "position":"RW",
+          "name":"Zack Kassian ",
+          "team":"EDM",
+          "best":"273",
+          "worst":"273",
+          "average_rank":"273.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"D",
+          "name":"Cam Fowler ",
+          "team":"ANA",
+          "best":"275",
+          "worst":"335",
+          "average_rank":"305.0",
+          "std_dev":"30.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Adam Henrique ",
+          "team":"ANA",
+          "best":"275",
+          "worst":"275",
+          "average_rank":"275.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Jeff Carter ",
+          "team":"LA",
+          "best":"278",
+          "worst":"317",
+          "average_rank":"297.5",
+          "std_dev":"19.5"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Jordan Weal ",
+          "team":"MTL",
+          "best":"280",
+          "worst":"320",
+          "average_rank":"300.0",
+          "std_dev":"20.0"
+       },
+       {
+          "tier":18,
+          "position":"RW",
+          "name":"Vitali Kravtsov ",
+          "team":"NYR",
+          "best":"281",
+          "worst":"325",
+          "average_rank":"303.0",
+          "std_dev":"22.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Alexander True ",
+          "team":"SJ",
+          "best":"283",
+          "worst":"323",
+          "average_rank":"303.0",
+          "std_dev":"20.0"
+       },
+       {
+          "tier":18,
+          "position":"D",
+          "name":"Alex Goligoski ",
+          "team":"ARI",
+          "best":"284",
+          "worst":"284",
+          "average_rank":"284.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Jesperi Kotkaniemi ",
+          "team":"MTL",
+          "best":"286",
+          "worst":"327",
+          "average_rank":"306.5",
+          "std_dev":"20.5"
+       },
+       {
+          "tier":18,
+          "position":"RW",
+          "name":"Owen Tippett ",
+          "team":"FLA",
+          "best":"286",
+          "worst":"286",
+          "average_rank":"286.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Christian Dvorak ",
+          "team":"ARI",
+          "best":"287",
+          "worst":"287",
+          "average_rank":"287.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"C",
+          "name":"Chris McCarthy ",
+          "team":"FA",
+          "best":"289",
+          "worst":"289",
+          "average_rank":"289.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"RW",
+          "name":"Wayne Simmonds ",
+          "team":"TOR",
+          "best":"290",
+          "worst":"396",
+          "average_rank":"343.0",
+          "std_dev":"53.0"
+       },
+       {
+          "tier":18,
+          "position":"G",
+          "name":"Alex Stalock ",
+          "team":"MIN",
+          "best":"292",
+          "worst":"292",
+          "average_rank":"292.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"RW",
+          "name":"Buddy Robinson ",
+          "team":"CGY",
+          "best":"292",
+          "worst":"292",
+          "average_rank":"292.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":18,
+          "position":"D",
+          "name":"Ryan McDonagh ",
+          "team":"TB",
+          "best":"293",
+          "worst":"376",
+          "average_rank":"334.5",
+          "std_dev":"41.5"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Kirby Dach ",
+          "team":"CHI",
+          "best":"293",
+          "worst":"342",
+          "average_rank":"317.5",
+          "std_dev":"24.5"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"T.J. Brodie ",
+          "team":"TOR",
+          "best":"293",
+          "worst":"293",
+          "average_rank":"293.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Nick Bjugstad ",
+          "team":"MIN",
+          "best":"294",
+          "worst":"294",
+          "average_rank":"294.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Sam Steel ",
+          "team":"ANA",
+          "best":"295",
+          "worst":"295",
+          "average_rank":"295.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Esa Lindell ",
+          "team":"DAL",
+          "best":"298",
+          "worst":"298",
+          "average_rank":"298.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Mathieu Perreault ",
+          "team":"WPG",
+          "best":"299",
+          "worst":"397",
+          "average_rank":"348.0",
+          "std_dev":"49.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Josh Norris ",
+          "team":"OTT",
+          "best":"299",
+          "worst":"299",
+          "average_rank":"299.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Charlie Coyle ",
+          "team":"BOS",
+          "best":"319",
+          "worst":"319",
+          "average_rank":"319.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Liam Foudy ",
+          "team":"CBJ",
+          "best":"329",
+          "worst":"329",
+          "average_rank":"329.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"RW",
+          "name":"Martin Kaut ",
+          "team":"COL",
+          "best":"330",
+          "worst":"330",
+          "average_rank":"330.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Evan Bouchard ",
+          "team":"EDM",
+          "best":"331",
+          "worst":"331",
+          "average_rank":"331.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Ty Smith ",
+          "team":"NJ",
+          "best":"333",
+          "worst":"333",
+          "average_rank":"333.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"LW",
+          "name":"Alexander Volkov ",
+          "team":"TB",
+          "best":"334",
+          "worst":"334",
+          "average_rank":"334.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Bowen Byram ",
+          "team":"COL",
+          "best":"337",
+          "worst":"337",
+          "average_rank":"337.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Jake Bean ",
+          "team":"CAR",
+          "best":"339",
+          "worst":"339",
+          "average_rank":"339.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"D",
+          "name":"Alexander Romanov ",
+          "team":"MTL",
+          "best":"340",
+          "worst":"340",
+          "average_rank":"340.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Morgan Frost ",
+          "team":"PHI",
+          "best":"341",
+          "worst":"341",
+          "average_rank":"341.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"RW",
+          "name":"James Neal ",
+          "team":"EDM",
+          "best":"343",
+          "worst":"343",
+          "average_rank":"343.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":19,
+          "position":"C",
+          "name":"Dylan Cozens ",
+          "team":"FA",
+          "best":"344",
+          "worst":"344",
+          "average_rank":"344.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"D",
+          "name":"Erik Brannstrom ",
+          "team":"OTT",
+          "best":"348",
+          "worst":"348",
+          "average_rank":"348.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Oliver Wahlstrom ",
+          "team":"FA",
+          "best":"349",
+          "worst":"349",
+          "average_rank":"349.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Adam Gaudette ",
+          "team":"VAN",
+          "best":"350",
+          "worst":"350",
+          "average_rank":"350.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Tyler Benson ",
+          "team":"EDM",
+          "best":"351",
+          "worst":"351",
+          "average_rank":"351.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Robby Fabbri ",
+          "team":"DET",
+          "best":"352",
+          "worst":"352",
+          "average_rank":"352.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"D",
+          "name":"Damon Severson ",
+          "team":"NJ",
+          "best":"353",
+          "worst":"353",
+          "average_rank":"353.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Zach Sanford ",
+          "team":"STL",
+          "best":"354",
+          "worst":"354",
+          "average_rank":"354.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Jack Studnicka ",
+          "team":"BOS",
+          "best":"355",
+          "worst":"355",
+          "average_rank":"355.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Filip Chytil ",
+          "team":"NYR",
+          "best":"356",
+          "worst":"356",
+          "average_rank":"356.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Tyler Ennis ",
+          "team":"EDM",
+          "best":"359",
+          "worst":"359",
+          "average_rank":"359.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"RW",
+          "name":"Joonas Donskoi ",
+          "team":"COL",
+          "best":"360",
+          "worst":"360",
+          "average_rank":"360.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"RW",
+          "name":"Ilya Mikheyev ",
+          "team":"TOR",
+          "best":"361",
+          "worst":"361",
+          "average_rank":"361.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"RW",
+          "name":"Troy Terry ",
+          "team":"ANA",
+          "best":"362",
+          "worst":"362",
+          "average_rank":"362.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Lucas Raymond ",
+          "team":"DET",
+          "best":"364",
+          "worst":"364",
+          "average_rank":"364.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"C",
+          "name":"Jordan Kyrou ",
+          "team":"STL",
+          "best":"365",
+          "worst":"365",
+          "average_rank":"365.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Alex Formenton ",
+          "team":"OTT",
+          "best":"366",
+          "worst":"366",
+          "average_rank":"366.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"D",
+          "name":"Moritz Seider ",
+          "team":"FA",
+          "best":"367",
+          "worst":"367",
+          "average_rank":"367.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"RW",
+          "name":"Martin Frk ",
+          "team":"LA",
+          "best":"368",
+          "worst":"368",
+          "average_rank":"368.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"LW",
+          "name":"Nick Foligno ",
+          "team":"CBJ",
+          "best":"369",
+          "worst":"369",
+          "average_rank":"369.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":20,
+          "position":"D",
+          "name":"Sami Vatanen ",
+          "team":"CAR",
+          "best":"371",
+          "worst":"371",
+          "average_rank":"371.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Luke Kunin ",
+          "team":"NSH",
+          "best":"373",
+          "worst":"373",
+          "average_rank":"373.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Nolan Patrick ",
+          "team":"PHI",
+          "best":"375",
+          "worst":"375",
+          "average_rank":"375.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"LW",
+          "name":"Eeli Tolvanen ",
+          "team":"NSH",
+          "best":"377",
+          "worst":"377",
+          "average_rank":"377.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Jack Quinn ",
+          "team":"BUF",
+          "best":"378",
+          "worst":"378",
+          "average_rank":"378.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Danton Heinen ",
+          "team":"ANA",
+          "best":"379",
+          "worst":"379",
+          "average_rank":"379.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"RW",
+          "name":"Oskar Lindblom ",
+          "team":"PHI",
+          "best":"380",
+          "worst":"380",
+          "average_rank":"380.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"D",
+          "name":"Erik Johnson ",
+          "team":"COL",
+          "best":"381",
+          "worst":"381",
+          "average_rank":"381.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"RW",
+          "name":"Connor Brown ",
+          "team":"OTT",
+          "best":"382",
+          "worst":"382",
+          "average_rank":"382.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"D",
+          "name":"Will Butcher ",
+          "team":"NJ",
+          "best":"383",
+          "worst":"383",
+          "average_rank":"383.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"D",
+          "name":"Victor Soderstrom ",
+          "team":"ARI",
+          "best":"384",
+          "worst":"384",
+          "average_rank":"384.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Vladislav Namestnikov ",
+          "team":"DET",
+          "best":"386",
+          "worst":"386",
+          "average_rank":"386.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"RW",
+          "name":"Nicolas Aube-Kubel ",
+          "team":"PHI",
+          "best":"387",
+          "worst":"387",
+          "average_rank":"387.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"G",
+          "name":"Collin Delia ",
+          "team":"CHI",
+          "best":"388",
+          "worst":"388",
+          "average_rank":"388.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"C",
+          "name":"Phillip Tomasino ",
+          "team":"FA",
+          "best":"389",
+          "worst":"389",
+          "average_rank":"389.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"G",
+          "name":"Curtis McElhinney ",
+          "team":"TB",
+          "best":"393",
+          "worst":"393",
+          "average_rank":"393.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"RW",
+          "name":"Corey Perry ",
+          "team":"MTL",
+          "best":"398",
+          "worst":"398",
+          "average_rank":"398.0",
+          "std_dev":"0.0"
+       },
+       {
+          "tier":21,
+          "position":"D",
+          "name":"Thomas Harley ",
+          "team":"DAL",
+          "best":"399",
+          "worst":"399",
+          "average_rank":"399.0",
+          "std_dev":"0.0"
+       }
+    ]
+ }
