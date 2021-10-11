@@ -1,6 +1,6 @@
 #!/bin/bash
 cd data;
-python fantasyProCsv.py;
+python fetch_data.py && python remove_keepers.py;
 cd ../;
 npm install;
 npm run build;

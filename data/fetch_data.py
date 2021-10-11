@@ -5,16 +5,12 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-
 url = "https://www.fantasypros.com/nhl/rankings/overall.php"
 
 def get_data():
     players = []
     r = requests.get(url)
-
     soup = BeautifulSoup(r.text, 'html.parser')
-    #headings = [th.get_text() for th in soup.find_all("th")[:10] if 'style' in th.attrs]
-
     rows = soup.find("tbody").find_all("tr")
     tier = 1
     counter = 1
@@ -24,18 +20,13 @@ def get_data():
         counter = counter + 1
         if counter % 20 == 0:
           tier = tier + 1
-        # if "Tier" in text[0]:
-          # tier = text[0].replace('Tier ', '')
         if len(text) > 1:
-            if "google" in text[2]:
-                continue
-            print(text)
             rank = text[0]
             best = text[2]
             worst = text[3]
             average = text[4]
             stddev = text[5]
-            name = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(1)
+            name = re.match(r"(([A-z.'-]+\s){2,3})", text[1]).group(0).rstrip()
             team = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(2)
             position = re.match(r'(.*)\(([A-Z]{2,3}).?-\s(C|RW|LW|D|G|NA)', text[1]).group(3)
             player['tier'] = tier
