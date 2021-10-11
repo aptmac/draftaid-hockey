@@ -1,5 +1,6 @@
-# csv files
+# player data files
 /data/rankings.json
+/data/keepers.txt
 
 # dependencies
 /node_modules
